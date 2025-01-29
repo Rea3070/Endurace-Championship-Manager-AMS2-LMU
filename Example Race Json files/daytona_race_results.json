@@ -1,0 +1,2921 @@
+{
+  "SessionRunTime": "2025-01-28T19:07:40.0685769-06:00",
+  "SessionType": "Race",
+  "WasGreen": true,
+  "Simulator": "AMS 2",
+  "SessionLengthType": "Time",
+  "TotalNumberOfLaps": 0,
+  "SessionLength": "00:05:00",
+  "SessionRunDuration": "00:10:59.8960000",
+  "TrackInfo": {
+    "TrackName": "Daytona",
+    "TrackLayoutName": "Daytona Sports Car Course",
+    "LayoutLength": {
+      "InMeters": 5741.34619140625
+    }
+  },
+  "Drivers": [
+    {
+      "ClassName": "LMDh_LD",
+      "ClassId": "LMDh_LD",
+      "DriverId": "Tim DongLMDh_LD",
+      "DriverLongName": "Tim Dong",
+      "FinishingPosition": 48,
+      "FinishingPositionInClass": 1,
+      "AveragePosition": 2147483647.0,
+      "InitialPosition": 0,
+      "InitialPositionInClass": 0,
+      "CarName": "Alpine A424 - Low Downforce",
+      "TotalLaps": 0,
+      "TotalDistance": 0.0,
+      "GapToPlayerRelative": "00:00:00",
+      "LapsDifferenceToPlayer": 0,
+      "TopSpeed": {
+        "InMs": 1.2181098461151123
+      },
+      "Laps": [],
+      "IsPlayer": true,
+      "Finished": true,
+      "FinishStatus": "Dnf",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:00:00"
+    },
+    {
+      "ClassName": "LMDh_LD",
+      "ClassId": "LMDh_LD",
+      "DriverId": "Mick SchumacherLMDh_LD",
+      "DriverLongName": "Mick Schumacher",
+      "FinishingPosition": 4,
+      "FinishingPositionInClass": 4,
+      "AveragePosition": 4.0,
+      "InitialPosition": 4,
+      "InitialPositionInClass": 4,
+      "CarName": "Alpine A424 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17574.150817871094,
+      "GapToPlayerRelative": "00:03:17.8090000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 90.91819763183594
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 4,
+          "LapStartPositionClass": 4,
+          "LapTime": "00:01:38.5519866",
+          "Sector1": "00:00:43.6709747",
+          "Sector2": "00:00:34.7614135",
+          "Sector3": "00:00:20.1195983"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 4,
+          "LapStartPositionClass": 4,
+          "LapTime": "00:01:40.7799987",
+          "Sector1": "00:00:39.8025207",
+          "Sector2": "00:00:37.8174743",
+          "Sector3": "00:00:23.1600036"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 4,
+          "LapStartPositionClass": 4,
+          "LapTime": "00:03:04.4225158",
+          "Sector1": "00:00:47.9522094",
+          "Sector2": "00:01:18.5920104",
+          "Sector3": "00:00:57.8782958"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:17.8090000"
+    },
+    {
+      "ClassName": "LMDh_LD",
+      "ClassId": "LMDh_LD",
+      "DriverId": "Charles MilesiLMDh_LD",
+      "DriverLongName": "Charles Milesi",
+      "FinishingPosition": 16,
+      "FinishingPositionInClass": 16,
+      "AveragePosition": 16.0,
+      "InitialPosition": 16,
+      "InitialPositionInClass": 16,
+      "CarName": "Alpine A424 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17230.73119878769,
+      "GapToPlayerRelative": "00:03:43.1640000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 92.61756134033203
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 16,
+          "LapStartPositionClass": 16,
+          "LapTime": "00:01:44.1919708",
+          "Sector1": "00:00:48.5123443",
+          "Sector2": "00:00:35.6011657",
+          "Sector3": "00:00:20.0784606"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 16,
+          "LapStartPositionClass": 16,
+          "LapTime": "00:02:00.4590148",
+          "Sector1": "00:00:41.4800109",
+          "Sector2": "00:00:45.6400146",
+          "Sector3": "00:00:33.3389892"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 16,
+          "LapStartPositionClass": 16,
+          "LapTime": "00:02:48.3134765",
+          "Sector1": "00:00:42.1886596",
+          "Sector2": "00:01:07.7619628",
+          "Sector3": "00:00:58.3628540"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:43.1640000"
+    },
+    {
+      "ClassName": "GT3_Gen2_LD",
+      "ClassId": "GT3_Gen2_LD",
+      "DriverId": "Misha GoikhbergGT3_Gen2_LD",
+      "DriverLongName": "Misha Goikhberg",
+      "FinishingPosition": 38,
+      "FinishingPositionInClass": 9,
+      "AveragePosition": 39.0,
+      "InitialPosition": 41,
+      "InitialPositionInClass": 12,
+      "CarName": "Lamborghini Huracan GT3 EVO2 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:04:10.0770000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 80.32331848144531
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 41,
+          "LapStartPositionClass": 12,
+          "LapTime": "00:02:02.1344146",
+          "Sector1": "00:00:59.1199493",
+          "Sector2": "00:00:40.1320190",
+          "Sector3": "00:00:22.8824462"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 41,
+          "LapStartPositionClass": 12,
+          "LapTime": "00:02:09.4032592",
+          "Sector1": "00:00:49.3678588",
+          "Sector2": "00:00:50.5498352",
+          "Sector3": "00:00:29.4855651"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 38,
+          "LapStartPositionClass": 9,
+          "LapTime": "00:02:35.7550354",
+          "Sector1": "00:00:48.0009460",
+          "Sector2": "00:00:49.9733886",
+          "Sector3": "00:00:57.7807006"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:10.0770000"
+    },
+    {
+      "ClassName": "GT3_Gen2_LD",
+      "ClassId": "GT3_Gen2_LD",
+      "DriverId": "Claudio SchiavoniGT3_Gen2_LD",
+      "DriverLongName": "Claudio Schiavoni",
+      "FinishingPosition": 35,
+      "FinishingPositionInClass": 6,
+      "AveragePosition": 35.0,
+      "InitialPosition": 34,
+      "InitialPositionInClass": 5,
+      "CarName": "Lamborghini Huracan GT3 EVO2 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:04:07.9230000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 80.50070190429688
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 34,
+          "LapStartPositionClass": 5,
+          "LapTime": "00:01:58.1319732",
+          "Sector1": "00:00:56.2509918",
+          "Sector2": "00:00:39.0409851",
+          "Sector3": "00:00:22.8399963"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 35,
+          "LapStartPositionClass": 6,
+          "LapTime": "00:02:11.2668457",
+          "Sector1": "00:00:50.2600097",
+          "Sector2": "00:00:48.8836364",
+          "Sector3": "00:00:32.1231994"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 35,
+          "LapStartPositionClass": 6,
+          "LapTime": "00:02:36.3302307",
+          "Sector1": "00:00:46.9937438",
+          "Sector2": "00:00:51.1636352",
+          "Sector3": "00:00:58.1728515"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:07.9230000"
+    },
+    {
+      "ClassName": "GT3_Gen2_LD",
+      "ClassId": "GT3_Gen2_LD",
+      "DriverId": "Sarah BovyGT3_Gen2_LD",
+      "DriverLongName": "Sarah Bovy",
+      "FinishingPosition": 31,
+      "FinishingPositionInClass": 2,
+      "AveragePosition": 31.0,
+      "InitialPosition": 30,
+      "InitialPositionInClass": 2,
+      "CarName": "Lamborghini Huracan GT3 EVO2 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:04:02.4260000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 81.29950714111328
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 30,
+          "LapStartPositionClass": 2,
+          "LapTime": "00:01:56.0919952",
+          "Sector1": "00:00:54.8309783",
+          "Sector2": "00:00:38.7409973",
+          "Sector3": "00:00:22.5200195"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 31,
+          "LapStartPositionClass": 2,
+          "LapTime": "00:02:07.8055419",
+          "Sector1": "00:00:48.3836669",
+          "Sector2": "00:00:44.9654846",
+          "Sector3": "00:00:34.4563903"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 31,
+          "LapStartPositionClass": 2,
+          "LapTime": "00:02:39.4352111",
+          "Sector1": "00:00:45.6544494",
+          "Sector2": "00:00:55.2188110",
+          "Sector3": "00:00:58.5619506"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:02.4260000"
+    },
+    {
+      "ClassName": "GT3_Gen2_LD",
+      "ClassId": "GT3_Gen2_LD",
+      "DriverId": "Danny FormalGT3_Gen2_LD",
+      "DriverLongName": "Danny Formal",
+      "FinishingPosition": 32,
+      "FinishingPositionInClass": 3,
+      "AveragePosition": 32.0,
+      "InitialPosition": 33,
+      "InitialPositionInClass": 4,
+      "CarName": "Lamborghini Huracan GT3 EVO2 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:04:04.1580000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 81.33037567138672
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 33,
+          "LapStartPositionClass": 4,
+          "LapTime": "00:01:56.1719818",
+          "Sector1": "00:00:55.3197174",
+          "Sector2": "00:00:38.5168762",
+          "Sector3": "00:00:22.3353881"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 32,
+          "LapStartPositionClass": 3,
+          "LapTime": "00:02:09.4599914",
+          "Sector1": "00:00:49.3840332",
+          "Sector2": "00:00:46.1359558",
+          "Sector3": "00:00:33.9400024"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 32,
+          "LapStartPositionClass": 3,
+          "LapTime": "00:02:38.3355407",
+          "Sector1": "00:00:46.0199890",
+          "Sector2": "00:00:53.8355102",
+          "Sector3": "00:00:58.4800415"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:04.1580000"
+    },
+    {
+      "ClassName": "GT3_Gen2_LD",
+      "ClassId": "GT3_Gen2_LD",
+      "DriverId": "Marco MapelliGT3_Gen2_LD",
+      "DriverLongName": "Marco Mapelli",
+      "FinishingPosition": 30,
+      "FinishingPositionInClass": 1,
+      "AveragePosition": 30.0,
+      "InitialPosition": 28,
+      "InitialPositionInClass": 1,
+      "CarName": "Lamborghini Huracan GT3 EVO2 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:04:00.5120000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 80.54553985595703
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 28,
+          "LapStartPositionClass": 1,
+          "LapTime": "00:01:56.0319671",
+          "Sector1": "00:00:54.2943572",
+          "Sector2": "00:00:38.8004455",
+          "Sector3": "00:00:22.9371643"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 30,
+          "LapStartPositionClass": 1,
+          "LapTime": "00:02:05.9461669",
+          "Sector1": "00:00:47.6400146",
+          "Sector2": "00:00:44.1456298",
+          "Sector3": "00:00:34.1605224"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 30,
+          "LapStartPositionClass": 1,
+          "LapTime": "00:02:40.6726074",
+          "Sector1": "00:00:45.7002563",
+          "Sector2": "00:00:56.3966064",
+          "Sector3": "00:00:58.5757446"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:00.5120000"
+    },
+    {
+      "ClassName": "LMDh_LD",
+      "ClassId": "LMDh_LD",
+      "DriverId": "Sébastien BourdaisLMDh_LD",
+      "DriverLongName": "Sébastien Bourdais",
+      "FinishingPosition": 6,
+      "FinishingPositionInClass": 6,
+      "AveragePosition": 6.0,
+      "InitialPosition": 6,
+      "InitialPositionInClass": 6,
+      "CarName": "Cadillac V-Series.R - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17500.469512939453,
+      "GapToPlayerRelative": "00:03:21.3710000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 92.89297485351562
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 6,
+          "LapStartPositionClass": 6,
+          "LapTime": "00:01:38.7519683",
+          "Sector1": "00:00:44.4509735",
+          "Sector2": "00:00:34.5400085",
+          "Sector3": "00:00:19.7609863"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 6,
+          "LapStartPositionClass": 6,
+          "LapTime": "00:01:44.1236877",
+          "Sector1": "00:00:40.5200195",
+          "Sector2": "00:00:41.9232177",
+          "Sector3": "00:00:21.6804504"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 6,
+          "LapStartPositionClass": 6,
+          "LapTime": "00:03:02.3107299",
+          "Sector1": "00:00:45.9923095",
+          "Sector2": "00:01:18.4604492",
+          "Sector3": "00:00:57.8579711"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:21.3710000"
+    },
+    {
+      "ClassName": "LMDh_LD",
+      "ClassId": "LMDh_LD",
+      "DriverId": "Pipo DeraniLMDh_LD",
+      "DriverLongName": "Pipo Derani",
+      "FinishingPosition": 5,
+      "FinishingPositionInClass": 5,
+      "AveragePosition": 5.0,
+      "InitialPosition": 5,
+      "InitialPositionInClass": 5,
+      "CarName": "Cadillac V-Series.R - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17518.64468383789,
+      "GapToPlayerRelative": "00:03:18.7280000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 92.55693817138672
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 5,
+          "LapStartPositionClass": 5,
+          "LapTime": "00:01:38.7119903",
+          "Sector1": "00:00:44.0987701",
+          "Sector2": "00:00:34.6350708",
+          "Sector3": "00:00:19.9781494"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 5,
+          "LapStartPositionClass": 5,
+          "LapTime": "00:01:41.5199890",
+          "Sector1": "00:00:40.1210021",
+          "Sector2": "00:00:39.6989746",
+          "Sector3": "00:00:21.7000122"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 5,
+          "LapStartPositionClass": 5,
+          "LapTime": "00:03:04.2106323",
+          "Sector1": "00:00:47.8376464",
+          "Sector2": "00:01:18.5371093",
+          "Sector3": "00:00:57.8358764"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:18.7280000"
+    },
+    {
+      "ClassName": "LMDh_LD",
+      "ClassId": "LMDh_LD",
+      "DriverId": "Renger van der ZandeLMDh_LD",
+      "DriverLongName": "Renger van der Zande",
+      "FinishingPosition": 14,
+      "FinishingPositionInClass": 14,
+      "AveragePosition": 14.333333333333334,
+      "InitialPosition": 14,
+      "InitialPositionInClass": 14,
+      "CarName": "Cadillac V-Series.R - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17257.06671142578,
+      "GapToPlayerRelative": "00:03:37.7280000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 91.57518005371094
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 14,
+          "LapStartPositionClass": 14,
+          "LapTime": "00:01:43.8319854",
+          "Sector1": "00:00:47.7772979",
+          "Sector2": "00:00:35.6346740",
+          "Sector3": "00:00:20.4200134"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 15,
+          "LapStartPositionClass": 15,
+          "LapTime": "00:01:55.3989868",
+          "Sector1": "00:00:40.3999938",
+          "Sector2": "00:00:45.8855895",
+          "Sector3": "00:00:29.1134033"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 14,
+          "LapStartPositionClass": 14,
+          "LapTime": "00:02:52.1853942",
+          "Sector1": "00:00:42.4210205",
+          "Sector2": "00:01:11.5022888",
+          "Sector3": "00:00:58.2620849"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:37.7280000"
+    },
+    {
+      "ClassName": "LMP2_LD",
+      "ClassId": "LMP2_LD",
+      "DriverId": "João BarbosaLMP2_LD",
+      "DriverLongName": "João Barbosa",
+      "FinishingPosition": 29,
+      "FinishingPositionInClass": 13,
+      "AveragePosition": 29.0,
+      "InitialPosition": 31,
+      "InitialPositionInClass": 13,
+      "CarName": "Ligier JS P217 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:03:59.4500000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 81.01317596435547
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 31,
+          "LapStartPositionClass": 13,
+          "LapTime": "00:01:53.0919952",
+          "Sector1": "00:00:53.7509918",
+          "Sector2": "00:00:37.5662536",
+          "Sector3": "00:00:21.7747497"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 29,
+          "LapStartPositionClass": 13,
+          "LapTime": "00:02:07.8199768",
+          "Sector1": "00:00:49.8599853",
+          "Sector2": "00:00:43.4505615",
+          "Sector3": "00:00:34.5094299"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 29,
+          "LapStartPositionClass": 13,
+          "LapTime": "00:02:41.1061401",
+          "Sector1": "00:00:44.6839599",
+          "Sector2": "00:00:57.9222412",
+          "Sector3": "00:00:58.4999389"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:59.4500000"
+    },
+    {
+      "ClassName": "GT3_Gen2_LD",
+      "ClassId": "GT3_Gen2_LD",
+      "DriverId": "Charlie EastwoodGT3_Gen2_LD",
+      "DriverLongName": "Charlie Eastwood",
+      "FinishingPosition": 41,
+      "FinishingPositionInClass": 12,
+      "AveragePosition": 41.666666666666664,
+      "InitialPosition": 42,
+      "InitialPositionInClass": 13,
+      "CarName": "Chevrolet Corvette Z06 GT3.R - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:04:15.9500000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 80.35307312011719
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 42,
+          "LapStartPositionClass": 13,
+          "LapTime": "00:02:02.4119720",
+          "Sector1": "00:00:59.3201446",
+          "Sector2": "00:00:39.7128906",
+          "Sector3": "00:00:23.3789367"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 43,
+          "LapStartPositionClass": 14,
+          "LapTime": "00:02:15.0200195",
+          "Sector1": "00:00:52.4030761",
+          "Sector2": "00:00:48.9369201",
+          "Sector3": "00:00:33.6800231"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 41,
+          "LapStartPositionClass": 12,
+          "LapTime": "00:02:31.2182617",
+          "Sector1": "00:00:46.1837158",
+          "Sector2": "00:00:47.6440429",
+          "Sector3": "00:00:57.3905029"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:15.9500000"
+    },
+    {
+      "ClassName": "GT3_Gen2_LD",
+      "ClassId": "GT3_Gen2_LD",
+      "DriverId": "Nicky CatsburgGT3_Gen2_LD",
+      "DriverLongName": "Nicky Catsburg",
+      "FinishingPosition": 42,
+      "FinishingPositionInClass": 13,
+      "AveragePosition": 43.0,
+      "InitialPosition": 45,
+      "InitialPositionInClass": 16,
+      "CarName": "Chevrolet Corvette Z06 GT3.R - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:04:16.8660000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 82.66694641113281
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 45,
+          "LapStartPositionClass": 16,
+          "LapTime": "00:02:02.7566986",
+          "Sector1": "00:00:59.7109832",
+          "Sector2": "00:00:40.3410034",
+          "Sector3": "00:00:22.7047119"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 45,
+          "LapStartPositionClass": 16,
+          "LapTime": "00:02:15.5552978",
+          "Sector1": "00:00:52.8017578",
+          "Sector2": "00:00:48.6735229",
+          "Sector3": "00:00:34.0800170"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 42,
+          "LapStartPositionClass": 13,
+          "LapTime": "00:02:30.8511352",
+          "Sector1": "00:00:47.2199707",
+          "Sector2": "00:00:46.2000122",
+          "Sector3": "00:00:57.4311523"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:16.8660000"
+    },
+    {
+      "ClassName": "LMDh_LD",
+      "ClassId": "LMDh_LD",
+      "DriverId": "Philipp EngLMDh_LD",
+      "DriverLongName": "Philipp Eng",
+      "FinishingPosition": 11,
+      "FinishingPositionInClass": 11,
+      "AveragePosition": 10.666666666666666,
+      "InitialPosition": 11,
+      "InitialPositionInClass": 11,
+      "CarName": "BMW M Hybrid V8 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17412.607452392578,
+      "GapToPlayerRelative": "00:03:29.5650000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 89.1049575805664
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 11,
+          "LapStartPositionClass": 11,
+          "LapTime": "00:01:41.7326812",
+          "Sector1": "00:00:46.4909820",
+          "Sector2": "00:00:35.0809936",
+          "Sector3": "00:00:20.1607055"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 10,
+          "LapStartPositionClass": 10,
+          "LapTime": "00:01:49.3593139",
+          "Sector1": "00:00:40.7992858",
+          "Sector2": "00:00:45.7000122",
+          "Sector3": "00:00:22.8600158"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 11,
+          "LapStartPositionClass": 11,
+          "LapTime": "00:02:58.0023498",
+          "Sector1": "00:00:42.7599792",
+          "Sector2": "00:01:17.0741577",
+          "Sector3": "00:00:58.1682128"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:29.5650000"
+    },
+    {
+      "ClassName": "LMDh_LD",
+      "ClassId": "LMDh_LD",
+      "DriverId": "Augusto FarfusLMDh_LD",
+      "DriverLongName": "Augusto Farfus",
+      "FinishingPosition": 15,
+      "FinishingPositionInClass": 15,
+      "AveragePosition": 14.666666666666666,
+      "InitialPosition": 15,
+      "InitialPositionInClass": 15,
+      "CarName": "BMW M Hybrid V8 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17251.80740737915,
+      "GapToPlayerRelative": "00:03:40.5220000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 90.31890869140625
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 15,
+          "LapStartPositionClass": 15,
+          "LapTime": "00:01:43.7170867",
+          "Sector1": "00:00:47.9382171",
+          "Sector2": "00:00:35.5737609",
+          "Sector3": "00:00:20.2051086"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 14,
+          "LapStartPositionClass": 14,
+          "LapTime": "00:01:58.2998046",
+          "Sector1": "00:00:41.1427612",
+          "Sector2": "00:00:45.7216186",
+          "Sector3": "00:00:31.4354248"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 15,
+          "LapStartPositionClass": 15,
+          "LapTime": "00:02:50.1749877",
+          "Sector1": "00:00:41.3214721",
+          "Sector2": "00:01:10.5402221",
+          "Sector3": "00:00:58.3132934"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:40.5220000"
+    },
+    {
+      "ClassName": "LMDh_LD",
+      "ClassId": "LMDh_LD",
+      "DriverId": "Nick YellolyLMDh_LD",
+      "DriverLongName": "Nick Yelloly",
+      "FinishingPosition": 7,
+      "FinishingPositionInClass": 7,
+      "AveragePosition": 7.0,
+      "InitialPosition": 7,
+      "InitialPositionInClass": 7,
+      "CarName": "BMW M Hybrid V8 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17491.957611083984,
+      "GapToPlayerRelative": "00:03:22.9060000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 92.74503326416016
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 7,
+          "LapStartPositionClass": 7,
+          "LapTime": "00:01:39.3319854",
+          "Sector1": "00:00:44.7309722",
+          "Sector2": "00:00:34.7200012",
+          "Sector3": "00:00:19.8810119"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 7,
+          "LapStartPositionClass": 7,
+          "LapTime": "00:01:45.0644836",
+          "Sector1": "00:00:40.3637695",
+          "Sector2": "00:00:43.0962219",
+          "Sector3": "00:00:21.6044921"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 7,
+          "LapStartPositionClass": 7,
+          "LapTime": "00:03:01.5690307",
+          "Sector1": "00:00:45.1381225",
+          "Sector2": "00:01:18.5143432",
+          "Sector3": "00:00:57.9165649"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:22.9060000"
+    },
+    {
+      "ClassName": "LMDh_LD",
+      "ClassId": "LMDh_LD",
+      "DriverId": "Connor De PhillippiLMDh_LD",
+      "DriverLongName": "Connor De Phillippi",
+      "FinishingPosition": 13,
+      "FinishingPositionInClass": 13,
+      "AveragePosition": 13.0,
+      "InitialPosition": 13,
+      "InitialPositionInClass": 13,
+      "CarName": "BMW M Hybrid V8 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17372.616470336914,
+      "GapToPlayerRelative": "00:03:34.9300000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 93.4289779663086
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 13,
+          "LapStartPositionClass": 13,
+          "LapTime": "00:01:42.0719757",
+          "Sector1": "00:00:47.1109771",
+          "Sector2": "00:00:35.1409912",
+          "Sector3": "00:00:19.8200073"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 13,
+          "LapStartPositionClass": 13,
+          "LapTime": "00:01:54.3800048",
+          "Sector1": "00:00:41.3000183",
+          "Sector2": "00:00:46.2406311",
+          "Sector3": "00:00:26.8393554"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 13,
+          "LapStartPositionClass": 13,
+          "LapTime": "00:02:54.1960144",
+          "Sector1": "00:00:41.2006835",
+          "Sector2": "00:01:14.7649841",
+          "Sector3": "00:00:58.2303466"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:34.9300000"
+    },
+    {
+      "ClassName": "LMP2_LD",
+      "ClassId": "LMP2_LD",
+      "DriverId": "Paul di RestaLMP2_LD",
+      "DriverLongName": "Paul di Resta",
+      "FinishingPosition": 20,
+      "FinishingPositionInClass": 4,
+      "AveragePosition": 20.0,
+      "InitialPosition": 20,
+      "InitialPositionInClass": 4,
+      "CarName": "Oreca 07 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:03:49.7930000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 81.02117156982422
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 20,
+          "LapStartPositionClass": 4,
+          "LapTime": "00:01:47.8119964",
+          "Sector1": "00:00:49.8709869",
+          "Sector2": "00:00:36.4888305",
+          "Sector3": "00:00:21.4521789"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 20,
+          "LapStartPositionClass": 4,
+          "LapTime": "00:02:03.4399719",
+          "Sector1": "00:00:43.0650329",
+          "Sector2": "00:00:45.5749511",
+          "Sector3": "00:00:34.7999877"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 20,
+          "LapStartPositionClass": 4,
+          "LapTime": "00:02:44.6355895",
+          "Sector1": "00:00:43.9280090",
+          "Sector2": "00:01:02.1951293",
+          "Sector3": "00:00:58.5124511"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:49.7930000"
+    },
+    {
+      "ClassName": "LMP2_LD",
+      "ClassId": "LMP2_LD",
+      "DriverId": "Colin BraunLMP2_LD",
+      "DriverLongName": "Colin Braun",
+      "FinishingPosition": 25,
+      "FinishingPositionInClass": 9,
+      "AveragePosition": 25.0,
+      "InitialPosition": 25,
+      "InitialPositionInClass": 9,
+      "CarName": "Oreca 07 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:03:53.0430000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 81.03978729248047
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 25,
+          "LapStartPositionClass": 9,
+          "LapTime": "00:01:52.0919952",
+          "Sector1": "00:00:52.4128875",
+          "Sector2": "00:00:37.6190795",
+          "Sector3": "00:00:22.0600280"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 25,
+          "LapStartPositionClass": 9,
+          "LapTime": "00:02:02.4199829",
+          "Sector1": "00:00:43.5999755",
+          "Sector2": "00:00:46.7818298",
+          "Sector3": "00:00:32.0381774"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 25,
+          "LapStartPositionClass": 9,
+          "LapTime": "00:02:44.7660217",
+          "Sector1": "00:00:45.6000061",
+          "Sector2": "00:01:00.6665039",
+          "Sector3": "00:00:58.4995117"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:53.0430000"
+    },
+    {
+      "ClassName": "LMP2_LD",
+      "ClassId": "LMP2_LD",
+      "DriverId": "Matthew BrabhamLMP2_LD",
+      "DriverLongName": "Matthew Brabham",
+      "FinishingPosition": 21,
+      "FinishingPositionInClass": 5,
+      "AveragePosition": 21.0,
+      "InitialPosition": 23,
+      "InitialPositionInClass": 7,
+      "CarName": "Oreca 07 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:03:50.1640000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 81.0574951171875
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 23,
+          "LapStartPositionClass": 7,
+          "LapTime": "00:01:47.9919891",
+          "Sector1": "00:00:50.2509918",
+          "Sector2": "00:00:36.2809753",
+          "Sector3": "00:00:21.4600219"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 21,
+          "LapStartPositionClass": 5,
+          "LapTime": "00:02:03.6409912",
+          "Sector1": "00:00:43.5830078",
+          "Sector2": "00:00:45.3170166",
+          "Sector3": "00:00:34.7409667"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 21,
+          "LapStartPositionClass": 5,
+          "LapTime": "00:02:44.9468994",
+          "Sector1": "00:00:44.4618530",
+          "Sector2": "00:01:01.9920654",
+          "Sector3": "00:00:58.4929809"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:50.1640000"
+    },
+    {
+      "ClassName": "LMP2_LD",
+      "ClassId": "LMP2_LD",
+      "DriverId": "Laurents HörrLMP2_LD",
+      "DriverLongName": "Laurents Hörr",
+      "FinishingPosition": 18,
+      "FinishingPositionInClass": 2,
+      "AveragePosition": 18.0,
+      "InitialPosition": 19,
+      "InitialPositionInClass": 3,
+      "CarName": "Oreca 07 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:03:46.7030000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 81.01919555664062
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 19,
+          "LapStartPositionClass": 3,
+          "LapTime": "00:01:47.6919708",
+          "Sector1": "00:00:49.6514739",
+          "Sector2": "00:00:36.5205078",
+          "Sector3": "00:00:21.5199890"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 18,
+          "LapStartPositionClass": 2,
+          "LapTime": "00:02:00.4800109",
+          "Sector1": "00:00:41.8640747",
+          "Sector2": "00:00:43.9205017",
+          "Sector3": "00:00:34.6954345"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 18,
+          "LapStartPositionClass": 2,
+          "LapTime": "00:02:46.3078613",
+          "Sector1": "00:00:43.1199951",
+          "Sector2": "00:01:04.6951904",
+          "Sector3": "00:00:58.4926757"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:46.7030000"
+    },
+    {
+      "ClassName": "LMP2_LD",
+      "ClassId": "LMP2_LD",
+      "DriverId": "Ryan DalzielLMP2_LD",
+      "DriverLongName": "Ryan Dalziel",
+      "FinishingPosition": 22,
+      "FinishingPositionInClass": 6,
+      "AveragePosition": 22.0,
+      "InitialPosition": 21,
+      "InitialPositionInClass": 5,
+      "CarName": "Oreca 07 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:03:51.6960000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 80.97981262207031
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 21,
+          "LapStartPositionClass": 5,
+          "LapTime": "00:01:49.5564117",
+          "Sector1": "00:00:50.7719879",
+          "Sector2": "00:00:36.8265075",
+          "Sector3": "00:00:21.9579162"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 22,
+          "LapStartPositionClass": 6,
+          "LapTime": "00:02:03.6155700",
+          "Sector1": "00:00:42.8796386",
+          "Sector2": "00:00:46.0607910",
+          "Sector3": "00:00:34.6751403"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 22,
+          "LapStartPositionClass": 6,
+          "LapTime": "00:02:44.1130981",
+          "Sector1": "00:00:44.2040405",
+          "Sector2": "00:01:01.3959350",
+          "Sector3": "00:00:58.5131225"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:51.6960000"
+    },
+    {
+      "ClassName": "LMP2_LD",
+      "ClassId": "LMP2_LD",
+      "DriverId": "Pietro FittipaldiLMP2_LD",
+      "DriverLongName": "Pietro Fittipaldi",
+      "FinishingPosition": 23,
+      "FinishingPositionInClass": 7,
+      "AveragePosition": 23.0,
+      "InitialPosition": 22,
+      "InitialPositionInClass": 6,
+      "CarName": "Oreca 07 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:03:52.0970000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 81.00237274169922
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 22,
+          "LapStartPositionClass": 6,
+          "LapTime": "00:01:50.1719818",
+          "Sector1": "00:00:51.3709869",
+          "Sector2": "00:00:36.9472045",
+          "Sector3": "00:00:21.8537902"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 23,
+          "LapStartPositionClass": 7,
+          "LapTime": "00:02:03.4042053",
+          "Sector1": "00:00:43.1630554",
+          "Sector2": "00:00:47.4655456",
+          "Sector3": "00:00:32.7756042"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 23,
+          "LapStartPositionClass": 7,
+          "LapTime": "00:02:44.4054260",
+          "Sector1": "00:00:45.1557922",
+          "Sector2": "00:01:00.7227172",
+          "Sector3": "00:00:58.5269165"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:52.0970000"
+    },
+    {
+      "ClassName": "LMP2_LD",
+      "ClassId": "LMP2_LD",
+      "DriverId": "Rasmus LindhLMP2_LD",
+      "DriverLongName": "Rasmus Lindh",
+      "FinishingPosition": 19,
+      "FinishingPositionInClass": 3,
+      "AveragePosition": 19.0,
+      "InitialPosition": 18,
+      "InitialPositionInClass": 2,
+      "CarName": "Oreca 07 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:03:48.5560000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 81.01661682128906
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 18,
+          "LapStartPositionClass": 2,
+          "LapTime": "00:01:47.7532501",
+          "Sector1": "00:00:49.4713287",
+          "Sector2": "00:00:36.5209655",
+          "Sector3": "00:00:21.7609558"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 19,
+          "LapStartPositionClass": 3,
+          "LapTime": "00:02:02.2787170",
+          "Sector1": "00:00:42.4862976",
+          "Sector2": "00:00:45.3724365",
+          "Sector3": "00:00:34.4199829"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 19,
+          "LapStartPositionClass": 3,
+          "LapTime": "00:02:45.1708984",
+          "Sector1": "00:00:43.5001831",
+          "Sector2": "00:01:03.1534423",
+          "Sector3": "00:00:58.5172729"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:48.5560000"
+    },
+    {
+      "ClassName": "LMP2_LD",
+      "ClassId": "LMP2_LD",
+      "DriverId": "Mikkel JensenLMP2_LD",
+      "DriverLongName": "Mikkel Jensen",
+      "FinishingPosition": 24,
+      "FinishingPositionInClass": 8,
+      "AveragePosition": 24.0,
+      "InitialPosition": 27,
+      "InitialPositionInClass": 11,
+      "CarName": "Oreca 07 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:03:52.6260000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 80.9996109008789
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 27,
+          "LapStartPositionClass": 11,
+          "LapTime": "00:01:51.9745025",
+          "Sector1": "00:00:52.8909759",
+          "Sector2": "00:00:37.3210144",
+          "Sector3": "00:00:21.7625122"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 24,
+          "LapStartPositionClass": 8,
+          "LapTime": "00:02:02.0986938",
+          "Sector1": "00:00:42.5574645",
+          "Sector2": "00:00:47.4200134",
+          "Sector3": "00:00:32.1212158"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 24,
+          "LapStartPositionClass": 8,
+          "LapTime": "00:02:44.5713806",
+          "Sector1": "00:00:45.3987731",
+          "Sector2": "00:01:00.6622314",
+          "Sector3": "00:00:58.5103759"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:52.6260000"
+    },
+    {
+      "ClassName": "LMP2_LD",
+      "ClassId": "LMP2_LD",
+      "DriverId": "Ben KeatingLMP2_LD",
+      "DriverLongName": "Ben Keating",
+      "FinishingPosition": 17,
+      "FinishingPositionInClass": 1,
+      "AveragePosition": 17.0,
+      "InitialPosition": 17,
+      "InitialPositionInClass": 1,
+      "CarName": "Oreca 07 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:03:44.9600000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 80.97703552246094
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 17,
+          "LapStartPositionClass": 1,
+          "LapTime": "00:01:47.5919952",
+          "Sector1": "00:00:49.0109710",
+          "Sector2": "00:00:36.6015014",
+          "Sector3": "00:00:21.9795227"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 17,
+          "LapStartPositionClass": 1,
+          "LapTime": "00:01:58.8414001",
+          "Sector1": "00:00:40.9629821",
+          "Sector2": "00:00:43.2814941",
+          "Sector3": "00:00:34.5969238"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 17,
+          "LapStartPositionClass": 1,
+          "LapTime": "00:02:47.2974243",
+          "Sector1": "00:00:42.7684326",
+          "Sector2": "00:01:06.0961914",
+          "Sector3": "00:00:58.4328002"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:44.9600000"
+    },
+    {
+      "ClassName": "LMP2_LD",
+      "ClassId": "LMP2_LD",
+      "DriverId": "Lilou WadouxLMP2_LD",
+      "DriverLongName": "Lilou Wadoux",
+      "FinishingPosition": 28,
+      "FinishingPositionInClass": 12,
+      "AveragePosition": 28.0,
+      "InitialPosition": 29,
+      "InitialPositionInClass": 12,
+      "CarName": "Oreca 07 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:03:56.6500000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 81.03571319580078
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 29,
+          "LapStartPositionClass": 12,
+          "LapTime": "00:01:52.7519683",
+          "Sector1": "00:00:53.4555816",
+          "Sector2": "00:00:37.6039428",
+          "Sector3": "00:00:21.6924438"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 28,
+          "LapStartPositionClass": 12,
+          "LapTime": "00:02:05.3800048",
+          "Sector1": "00:00:49.4068603",
+          "Sector2": "00:00:43.7652587",
+          "Sector3": "00:00:32.2078857"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 28,
+          "LapStartPositionClass": 12,
+          "LapTime": "00:02:43.2015075",
+          "Sector1": "00:00:45.6800231",
+          "Sector2": "00:00:58.9934082",
+          "Sector3": "00:00:58.5280761"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:56.6500000"
+    },
+    {
+      "ClassName": "LMP2_LD",
+      "ClassId": "LMP2_LD",
+      "DriverId": "John FaranoLMP2_LD",
+      "DriverLongName": "John Farano",
+      "FinishingPosition": 27,
+      "FinishingPositionInClass": 11,
+      "AveragePosition": 27.0,
+      "InitialPosition": 26,
+      "InitialPositionInClass": 10,
+      "CarName": "Oreca 07 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:03:53.9230000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 81.065673828125
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 26,
+          "LapStartPositionClass": 10,
+          "LapTime": "00:01:52.2133941",
+          "Sector1": "00:00:52.1973114",
+          "Sector2": "00:00:37.7183532",
+          "Sector3": "00:00:22.2977294"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 27,
+          "LapStartPositionClass": 11,
+          "LapTime": "00:02:03.1985778",
+          "Sector1": "00:00:48.4419250",
+          "Sector2": "00:00:44.7274475",
+          "Sector3": "00:00:30.0292053"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 27,
+          "LapStartPositionClass": 11,
+          "LapTime": "00:02:45.2409057",
+          "Sector1": "00:00:47.2829589",
+          "Sector2": "00:00:59.3983154",
+          "Sector3": "00:00:58.5596313"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:53.9230000"
+    },
+    {
+      "ClassName": "LMP2_LD",
+      "ClassId": "LMP2_LD",
+      "DriverId": "Felipe FragaLMP2_LD",
+      "DriverLongName": "Felipe Fraga",
+      "FinishingPosition": 26,
+      "FinishingPositionInClass": 10,
+      "AveragePosition": 26.0,
+      "InitialPosition": 24,
+      "InitialPositionInClass": 8,
+      "CarName": "Oreca 07 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:03:53.5080000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 81.1112289428711
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 24,
+          "LapStartPositionClass": 8,
+          "LapTime": "00:01:52.1519927",
+          "Sector1": "00:00:52.6988067",
+          "Sector2": "00:00:37.8402404",
+          "Sector3": "00:00:21.6129455"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 26,
+          "LapStartPositionClass": 10,
+          "LapTime": "00:02:02.8244934",
+          "Sector1": "00:00:44.8868408",
+          "Sector2": "00:00:46.8531494",
+          "Sector3": "00:00:31.0845031"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 26,
+          "LapStartPositionClass": 10,
+          "LapTime": "00:02:44.9866943",
+          "Sector1": "00:00:46.5048828",
+          "Sector2": "00:00:59.9362792",
+          "Sector3": "00:00:58.5455322"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:53.5080000"
+    },
+    {
+      "ClassName": "GT3_Gen2_LD",
+      "ClassId": "GT3_Gen2_LD",
+      "DriverId": "Adam CarrollGT3_Gen2_LD",
+      "DriverLongName": "Adam Carroll",
+      "FinishingPosition": 37,
+      "FinishingPositionInClass": 8,
+      "AveragePosition": 36.666666666666664,
+      "InitialPosition": 35,
+      "InitialPositionInClass": 6,
+      "CarName": "Audi R8 LMS GT3 evo II - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:04:09.6150000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 79.11705780029297
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 35,
+          "LapStartPositionClass": 6,
+          "LapTime": "00:01:58.8565521",
+          "Sector1": "00:00:56.6509857",
+          "Sector2": "00:00:39.3209838",
+          "Sector3": "00:00:22.8845825"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 36,
+          "LapStartPositionClass": 7,
+          "LapTime": "00:02:12.2154235",
+          "Sector1": "00:00:51.0354309",
+          "Sector2": "00:00:51.5400085",
+          "Sector3": "00:00:29.6399841"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 37,
+          "LapStartPositionClass": 8,
+          "LapTime": "00:02:35.6534118",
+          "Sector1": "00:00:47.3800354",
+          "Sector2": "00:00:50.4799804",
+          "Sector3": "00:00:57.7933959"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:09.6150000"
+    },
+    {
+      "ClassName": "GT3_Gen2_LD",
+      "ClassId": "GT3_Gen2_LD",
+      "DriverId": "Thiago VivacquaGT3_Gen2_LD",
+      "DriverLongName": "Thiago Vivacqua",
+      "FinishingPosition": 34,
+      "FinishingPositionInClass": 5,
+      "AveragePosition": 34.0,
+      "InitialPosition": 36,
+      "InitialPositionInClass": 7,
+      "CarName": "Audi R8 LMS GT3 evo II - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:04:07.6120000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 81.30709838867188
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 36,
+          "LapStartPositionClass": 7,
+          "LapTime": "00:01:56.8563385",
+          "Sector1": "00:00:55.6109771",
+          "Sector2": "00:00:38.7667541",
+          "Sector3": "00:00:22.4786071"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 34,
+          "LapStartPositionClass": 5,
+          "LapTime": "00:02:12.2356567",
+          "Sector1": "00:00:50.6593933",
+          "Sector2": "00:00:47.2251892",
+          "Sector3": "00:00:34.3510742"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 34,
+          "LapStartPositionClass": 5,
+          "LapTime": "00:02:36.0708312",
+          "Sector1": "00:00:46.6091613",
+          "Sector2": "00:00:51.1524047",
+          "Sector3": "00:00:58.3092651"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:07.6120000"
+    },
+    {
+      "ClassName": "GT3_Gen2_LD",
+      "ClassId": "GT3_Gen2_LD",
+      "DriverId": "Konstantin GutsulGT3_Gen2_LD",
+      "DriverLongName": "Konstantin Gutsul",
+      "FinishingPosition": 47,
+      "FinishingPositionInClass": 18,
+      "AveragePosition": 44.0,
+      "InitialPosition": 38,
+      "InitialPositionInClass": 9,
+      "CarName": "Audi R8 LMS GT3 evo II - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:04:21.8000000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 80.1903305053711
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 38,
+          "LapStartPositionClass": 9,
+          "LapTime": "00:01:58.9919891",
+          "Sector1": "00:00:56.5309906",
+          "Sector2": "00:00:39.3458557",
+          "Sector3": "00:00:23.1151428"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 38,
+          "LapStartPositionClass": 9,
+          "LapTime": "00:02:24.2599792",
+          "Sector1": "00:01:00.9468078",
+          "Sector2": "00:00:47.7131958",
+          "Sector3": "00:00:35.5999755"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 47,
+          "LapStartPositionClass": 18,
+          "LapTime": "00:02:28.5359191",
+          "Sector1": "00:00:49.1800231",
+          "Sector2": "00:00:45.6599731",
+          "Sector3": "00:00:53.6959228"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:21.8000000"
+    },
+    {
+      "ClassName": "GT3_Gen2_LD",
+      "ClassId": "GT3_Gen2_LD",
+      "DriverId": "Renee GracieGT3_Gen2_LD",
+      "DriverLongName": "Renee Gracie",
+      "FinishingPosition": 39,
+      "FinishingPositionInClass": 10,
+      "AveragePosition": 39.0,
+      "InitialPosition": 39,
+      "InitialPositionInClass": 10,
+      "CarName": "Audi R8 LMS GT3 evo II - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:04:10.5070000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 78.66189575195312
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 39,
+          "LapStartPositionClass": 10,
+          "LapTime": "00:02:00.6919708",
+          "Sector1": "00:00:58.0178375",
+          "Sector2": "00:00:39.5541381",
+          "Sector3": "00:00:23.1199951"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 39,
+          "LapStartPositionClass": 10,
+          "LapTime": "00:02:11.3000183",
+          "Sector1": "00:00:51.8600158",
+          "Sector2": "00:00:50.1600036",
+          "Sector3": "00:00:29.2799987"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 39,
+          "LapStartPositionClass": 10,
+          "LapTime": "00:02:35.7132568",
+          "Sector1": "00:00:48.1007080",
+          "Sector2": "00:00:49.9793090",
+          "Sector3": "00:00:57.6332397"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:10.5070000"
+    },
+    {
+      "ClassName": "LMDh_LD",
+      "ClassId": "LMDh_LD",
+      "DriverId": "Romain GrosjeanLMDh_LD",
+      "DriverLongName": "Romain Grosjean",
+      "FinishingPosition": 2,
+      "FinishingPositionInClass": 2,
+      "AveragePosition": 1.6666666666666667,
+      "InitialPosition": 1,
+      "InitialPositionInClass": 1,
+      "CarName": "Lamborghini SC63 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17622.144134521484,
+      "GapToPlayerRelative": "00:03:12.9390000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 88.94613647460938
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 1,
+          "LapStartPositionClass": 1,
+          "LapTime": "00:01:37.7319793",
+          "Sector1": "00:00:42.9909820",
+          "Sector2": "00:00:34.3800048",
+          "Sector3": "00:00:20.3609924"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 1,
+          "LapStartPositionClass": 1,
+          "LapTime": "00:01:36.7200012",
+          "Sector1": "00:00:39.2662658",
+          "Sector2": "00:00:36.7137451",
+          "Sector3": "00:00:20.7399902"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 2,
+          "LapStartPositionClass": 2,
+          "LapTime": "00:03:07.7928161",
+          "Sector1": "00:00:51.3004150",
+          "Sector2": "00:01:18.6595764",
+          "Sector3": "00:00:57.8328247"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:12.9390000"
+    },
+    {
+      "ClassName": "LMDh_LD",
+      "ClassId": "LMDh_LD",
+      "DriverId": "Daniil KvyatLMDh_LD",
+      "DriverLongName": "Daniil Kvyat",
+      "FinishingPosition": 3,
+      "FinishingPositionInClass": 3,
+      "AveragePosition": 3.0,
+      "InitialPosition": 2,
+      "InitialPositionInClass": 2,
+      "CarName": "Lamborghini SC63 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17608.698028564453,
+      "GapToPlayerRelative": "00:03:15.6740000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 91.81320190429688
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 2,
+          "LapStartPositionClass": 2,
+          "LapTime": "00:01:37.8552398",
+          "Sector1": "00:00:42.7796478",
+          "Sector2": "00:00:34.7513427",
+          "Sector3": "00:00:20.3242492"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 3,
+          "LapStartPositionClass": 3,
+          "LapTime": "00:01:39.3367309",
+          "Sector1": "00:00:39.5567321",
+          "Sector2": "00:00:37.2400207",
+          "Sector3": "00:00:22.5399780"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 3,
+          "LapStartPositionClass": 3,
+          "LapTime": "00:03:05.8405456",
+          "Sector1": "00:00:49.3090209",
+          "Sector2": "00:01:18.6401672",
+          "Sector3": "00:00:57.8913574"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:15.6740000"
+    },
+    {
+      "ClassName": "LMDh_LD",
+      "ClassId": "LMDh_LD",
+      "DriverId": "Andrea CaldarelliLMDh_LD",
+      "DriverLongName": "Andrea Caldarelli",
+      "FinishingPosition": 12,
+      "FinishingPositionInClass": 12,
+      "AveragePosition": 12.0,
+      "InitialPosition": 10,
+      "InitialPositionInClass": 10,
+      "CarName": "Lamborghini SC63 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17379.332153320312,
+      "GapToPlayerRelative": "00:03:32.2030000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 91.38139343261719
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 10,
+          "LapStartPositionClass": 10,
+          "LapTime": "00:01:41.9119720",
+          "Sector1": "00:00:46.1309661",
+          "Sector2": "00:00:35.3015441",
+          "Sector3": "00:00:20.4794616"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 12,
+          "LapStartPositionClass": 12,
+          "LapTime": "00:01:51.8040771",
+          "Sector1": "00:00:41.0247192",
+          "Sector2": "00:00:45.9800109",
+          "Sector3": "00:00:24.7993469"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 12,
+          "LapStartPositionClass": 12,
+          "LapTime": "00:02:56.1601562",
+          "Sector1": "00:00:42.0010375",
+          "Sector2": "00:01:15.9555664",
+          "Sector3": "00:00:58.2035522"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:32.2030000"
+    },
+    {
+      "ClassName": "LMDh_LD",
+      "ClassId": "LMDh_LD",
+      "DriverId": "Matteo CairoliLMDh_LD",
+      "DriverLongName": "Matteo Cairoli",
+      "FinishingPosition": 8,
+      "FinishingPositionInClass": 8,
+      "AveragePosition": 8.0,
+      "InitialPosition": 8,
+      "InitialPositionInClass": 8,
+      "CarName": "Lamborghini SC63 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17484.855041503906,
+      "GapToPlayerRelative": "00:03:24.6810000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 91.44896697998047
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 8,
+          "LapStartPositionClass": 8,
+          "LapTime": "00:01:39.8947296",
+          "Sector1": "00:00:45.1309661",
+          "Sector2": "00:00:34.7600097",
+          "Sector3": "00:00:20.0037536"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 8,
+          "LapStartPositionClass": 8,
+          "LapTime": "00:01:46.2817993",
+          "Sector1": "00:00:40.5641479",
+          "Sector2": "00:00:44.3330993",
+          "Sector3": "00:00:21.3845520"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 8,
+          "LapStartPositionClass": 8,
+          "LapTime": "00:03:00.5713195",
+          "Sector1": "00:00:44.0440979",
+          "Sector2": "00:01:18.5177612",
+          "Sector3": "00:00:58.0094604"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:24.6810000"
+    },
+    {
+      "ClassName": "LMDh_LD",
+      "ClassId": "LMDh_LD",
+      "DriverId": "Matt CampbellLMDh_LD",
+      "DriverLongName": "Matt Campbell",
+      "FinishingPosition": 1,
+      "FinishingPositionInClass": 17,
+      "AveragePosition": 1.3333333333333333,
+      "InitialPosition": 3,
+      "InitialPositionInClass": 3,
+      "CarName": "Porsche 963 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17633.143035888672,
+      "GapToPlayerRelative": "00:03:10.4280000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 90.99308013916016
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 3,
+          "LapStartPositionClass": 3,
+          "LapTime": "00:01:37.7519683",
+          "Sector1": "00:00:43.3348541",
+          "Sector2": "00:00:34.4161376",
+          "Sector3": "00:00:20.0009765"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 2,
+          "LapStartPositionClass": 2,
+          "LapTime": "00:01:34.1827697",
+          "Sector1": "00:00:38.7492065",
+          "Sector2": "00:00:34.6907958",
+          "Sector3": "00:00:20.7427673"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 1,
+          "LapStartPositionClass": 1,
+          "LapTime": "00:03:09.5156860",
+          "Sector1": "00:00:53.1013793",
+          "Sector2": "00:01:18.6447753",
+          "Sector3": "00:00:57.7695312"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:10.4280000"
+    },
+    {
+      "ClassName": "LMDh_LD",
+      "ClassId": "LMDh_LD",
+      "DriverId": "Felipe NasrLMDh_LD",
+      "DriverLongName": "Felipe Nasr",
+      "FinishingPosition": 10,
+      "FinishingPositionInClass": 10,
+      "AveragePosition": 10.333333333333334,
+      "InitialPosition": 12,
+      "InitialPositionInClass": 12,
+      "CarName": "Porsche 963 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17451.210739135742,
+      "GapToPlayerRelative": "00:03:28.0910000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 90.96051788330078
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 12,
+          "LapStartPositionClass": 12,
+          "LapTime": "00:01:41.7719879",
+          "Sector1": "00:00:46.6709747",
+          "Sector2": "00:00:35.0410156",
+          "Sector3": "00:00:20.0599975"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 11,
+          "LapStartPositionClass": 11,
+          "LapTime": "00:01:47.8399963",
+          "Sector1": "00:00:40.1081237",
+          "Sector2": "00:00:44.3118591",
+          "Sector3": "00:00:23.4200134"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 10,
+          "LapStartPositionClass": 10,
+          "LapTime": "00:02:58.7203979",
+          "Sector1": "00:00:42.4522399",
+          "Sector2": "00:01:18.1203308",
+          "Sector3": "00:00:58.1478271"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:28.0910000"
+    },
+    {
+      "ClassName": "LMDh_LD",
+      "ClassId": "LMDh_LD",
+      "DriverId": "Tijmen van der HelmLMDh_LD",
+      "DriverLongName": "Tijmen van der Helm",
+      "FinishingPosition": 9,
+      "FinishingPositionInClass": 9,
+      "AveragePosition": 9.0,
+      "InitialPosition": 9,
+      "InitialPositionInClass": 9,
+      "CarName": "Porsche 963 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17470.355026245117,
+      "GapToPlayerRelative": "00:03:27.2850000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 91.96147918701172
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 9,
+          "LapStartPositionClass": 9,
+          "LapTime": "00:01:40.0919952",
+          "Sector1": "00:00:45.4309844",
+          "Sector2": "00:00:34.7600097",
+          "Sector3": "00:00:19.9010009"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 9,
+          "LapStartPositionClass": 9,
+          "LapTime": "00:01:48.7004394",
+          "Sector1": "00:00:40.8799743",
+          "Sector2": "00:00:44.6610107",
+          "Sector3": "00:00:23.1594543"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 9,
+          "LapStartPositionClass": 9,
+          "LapTime": "00:02:58.7397766",
+          "Sector1": "00:00:42.1516723",
+          "Sector2": "00:01:18.4891052",
+          "Sector3": "00:00:58.0989990"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:27.2850000"
+    },
+    {
+      "ClassName": "GT3_Gen2_LD",
+      "ClassId": "GT3_Gen2_LD",
+      "DriverId": "Brendan IribeGT3_Gen2_LD",
+      "DriverLongName": "Brendan Iribe",
+      "FinishingPosition": 36,
+      "FinishingPositionInClass": 7,
+      "AveragePosition": 36.333333333333336,
+      "InitialPosition": 37,
+      "InitialPositionInClass": 8,
+      "CarName": "McLaren 720S GT3 Evo - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:04:09.2480000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 80.30736541748047
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 37,
+          "LapStartPositionClass": 8,
+          "LapTime": "00:01:58.9142608",
+          "Sector1": "00:00:57.1509857",
+          "Sector2": "00:00:39.1409912",
+          "Sector3": "00:00:22.6222839"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 37,
+          "LapStartPositionClass": 8,
+          "LapTime": "00:02:11.7777099",
+          "Sector1": "00:00:50.2450256",
+          "Sector2": "00:00:50.1782226",
+          "Sector3": "00:00:31.3544616"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 36,
+          "LapStartPositionClass": 7,
+          "LapTime": "00:02:35.7621154",
+          "Sector1": "00:00:47.0813903",
+          "Sector2": "00:00:50.4923706",
+          "Sector3": "00:00:58.1883544"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:09.2480000"
+    },
+    {
+      "ClassName": "GT3_Gen2_LD",
+      "ClassId": "GT3_Gen2_LD",
+      "DriverId": "Mikaël GrenierGT3_Gen2_LD",
+      "DriverLongName": "Mikaël Grenier",
+      "FinishingPosition": 44,
+      "FinishingPositionInClass": 15,
+      "AveragePosition": 44.666666666666664,
+      "InitialPosition": 46,
+      "InitialPositionInClass": 17,
+      "CarName": "Mercedes-AMG GT3 Evo - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:04:19.3150000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 78.88386535644531
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 46,
+          "LapStartPositionClass": 17,
+          "LapTime": "00:02:03.6324005",
+          "Sector1": "00:01:00.7525482",
+          "Sector2": "00:00:39.9394226",
+          "Sector3": "00:00:22.9404296"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 46,
+          "LapStartPositionClass": 17,
+          "LapTime": "00:02:17.1457824",
+          "Sector1": "00:00:53.6472167",
+          "Sector2": "00:00:48.2323608",
+          "Sector3": "00:00:35.2662048"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 44,
+          "LapStartPositionClass": 15,
+          "LapTime": "00:02:29.5223388",
+          "Sector1": "00:00:47.4948730",
+          "Sector2": "00:00:44.5026855",
+          "Sector3": "00:00:57.5247802"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:19.3150000"
+    },
+    {
+      "ClassName": "GT3_Gen2_LD",
+      "ClassId": "GT3_Gen2_LD",
+      "DriverId": "Philip EllisGT3_Gen2_LD",
+      "DriverLongName": "Philip Ellis",
+      "FinishingPosition": 33,
+      "FinishingPositionInClass": 4,
+      "AveragePosition": 33.0,
+      "InitialPosition": 32,
+      "InitialPositionInClass": 3,
+      "CarName": "Mercedes-AMG GT3 Evo - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:04:06.2060000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 80.71028137207031
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 32,
+          "LapStartPositionClass": 3,
+          "LapTime": "00:01:56.5950775",
+          "Sector1": "00:00:55.0798492",
+          "Sector2": "00:00:38.9335021",
+          "Sector3": "00:00:22.5817260"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 33,
+          "LapStartPositionClass": 4,
+          "LapTime": "00:02:11.0769042",
+          "Sector1": "00:00:50.3979797",
+          "Sector2": "00:00:45.4219665",
+          "Sector3": "00:00:35.2569580"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 33,
+          "LapStartPositionClass": 4,
+          "LapTime": "00:02:36.9747314",
+          "Sector1": "00:00:46.1647949",
+          "Sector2": "00:00:52.3276977",
+          "Sector3": "00:00:58.4822387"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:06.2060000"
+    },
+    {
+      "ClassName": "GT3_Gen2_LD",
+      "ClassId": "GT3_Gen2_LD",
+      "DriverId": "Jake WalkerGT3_Gen2_LD",
+      "DriverLongName": "Jake Walker",
+      "FinishingPosition": 43,
+      "FinishingPositionInClass": 14,
+      "AveragePosition": 42.666666666666664,
+      "InitialPosition": 43,
+      "InitialPositionInClass": 14,
+      "CarName": "BMW M4 GT3 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:04:17.2290000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 79.70040893554688
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 43,
+          "LapStartPositionClass": 14,
+          "LapTime": "00:02:02.2949371",
+          "Sector1": "00:00:59.4983978",
+          "Sector2": "00:00:40.0135803",
+          "Sector3": "00:00:22.7829589"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 42,
+          "LapStartPositionClass": 13,
+          "LapTime": "00:02:16.4023742",
+          "Sector1": "00:00:54.1215515",
+          "Sector2": "00:00:48.2822265",
+          "Sector3": "00:00:33.9985961"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 43,
+          "LapStartPositionClass": 14,
+          "LapTime": "00:02:31.0919799",
+          "Sector1": "00:00:47.8632202",
+          "Sector2": "00:00:45.6451416",
+          "Sector3": "00:00:57.5836181"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:17.2290000"
+    },
+    {
+      "ClassName": "GT3_Gen2_LD",
+      "ClassId": "GT3_Gen2_LD",
+      "DriverId": "Madison SnowGT3_Gen2_LD",
+      "DriverLongName": "Madison Snow",
+      "FinishingPosition": 45,
+      "FinishingPositionInClass": 16,
+      "AveragePosition": 44.666666666666664,
+      "InitialPosition": 44,
+      "InitialPositionInClass": 15,
+      "CarName": "BMW M4 GT3 - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:04:20.6730000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 80.44464111328125
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 44,
+          "LapStartPositionClass": 15,
+          "LapTime": "00:02:02.5519866",
+          "Sector1": "00:00:58.9392242",
+          "Sector2": "00:00:40.8717651",
+          "Sector3": "00:00:22.7409973"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 44,
+          "LapStartPositionClass": 15,
+          "LapTime": "00:02:19.5641479",
+          "Sector1": "00:00:56.0891113",
+          "Sector2": "00:00:47.5148010",
+          "Sector3": "00:00:35.9602355"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 45,
+          "LapStartPositionClass": 16,
+          "LapTime": "00:02:28.7597656",
+          "Sector1": "00:00:48.7381591",
+          "Sector2": "00:00:43.2778930",
+          "Sector3": "00:00:56.7437133"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:20.6730000"
+    },
+    {
+      "ClassName": "GT3_Gen2_LD",
+      "ClassId": "GT3_Gen2_LD",
+      "DriverId": "Jan HeylenGT3_Gen2_LD",
+      "DriverLongName": "Jan Heylen",
+      "FinishingPosition": 40,
+      "FinishingPositionInClass": 11,
+      "AveragePosition": 40.0,
+      "InitialPosition": 40,
+      "InitialPositionInClass": 11,
+      "CarName": "Porsche 992 GT3 R - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:04:13.2020000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 80.1529769897461
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 40,
+          "LapStartPositionClass": 11,
+          "LapTime": "00:02:00.7719879",
+          "Sector1": "00:00:57.8109893",
+          "Sector2": "00:00:39.6609802",
+          "Sector3": "00:00:23.3000183"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 40,
+          "LapStartPositionClass": 11,
+          "LapTime": "00:02:13.9199829",
+          "Sector1": "00:00:53.2599792",
+          "Sector2": "00:00:49.2476806",
+          "Sector3": "00:00:31.4123229"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 40,
+          "LapStartPositionClass": 11,
+          "LapTime": "00:02:33.4934387",
+          "Sector1": "00:00:47.1000061",
+          "Sector2": "00:00:48.8800048",
+          "Sector3": "00:00:57.5134277"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:13.2020000"
+    },
+    {
+      "ClassName": "GT3_Gen2_LD",
+      "ClassId": "GT3_Gen2_LD",
+      "DriverId": "Kerong LiGT3_Gen2_LD",
+      "DriverLongName": "Kerong Li",
+      "FinishingPosition": 46,
+      "FinishingPositionInClass": 17,
+      "AveragePosition": 46.333333333333336,
+      "InitialPosition": 47,
+      "InitialPositionInClass": 18,
+      "CarName": "Porsche 992 GT3 R - Low Downforce",
+      "TotalLaps": 3,
+      "TotalDistance": 17224.0390625,
+      "GapToPlayerRelative": "00:04:21.0280000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 79.14378356933594
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 47,
+          "LapStartPositionClass": 18,
+          "LapTime": "00:02:05.8319854",
+          "Sector1": "00:01:01.7909698",
+          "Sector2": "00:00:40.7210083",
+          "Sector3": "00:00:23.3200073"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 47,
+          "LapStartPositionClass": 18,
+          "LapTime": "00:02:16.6589965",
+          "Sector1": "00:00:53.6199951",
+          "Sector2": "00:00:47.2000122",
+          "Sector3": "00:00:35.8389892"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 46,
+          "LapStartPositionClass": 17,
+          "LapTime": "00:02:28.7098693",
+          "Sector1": "00:00:49.3810119",
+          "Sector2": "00:00:44.1839599",
+          "Sector3": "00:00:55.1448974"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:21.0280000"
+    },
+    {
+      "ClassName": "SafetyCar",
+      "ClassId": "SafetyCar",
+      "DriverId": "Safety CarSafetyCar",
+      "DriverLongName": "Safety Car",
+      "FinishingPosition": 49,
+      "FinishingPositionInClass": 1,
+      "AveragePosition": 49.0,
+      "InitialPosition": 49,
+      "InitialPositionInClass": 1,
+      "CarName": "Chevrolet Corvette C8 SC",
+      "TotalLaps": 1,
+      "TotalDistance": 11313.8349609375,
+      "GapToPlayerRelative": "00:10:55.2860000",
+      "LapsDifferenceToPlayer": -1,
+      "TopSpeed": {
+        "InMs": 28.279735565185547
+      },
+      "Laps": [
+        {
+          "IsPitLap": true,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 49,
+          "LapStartPositionClass": 1,
+          "LapTime": "00:06:20.5324096",
+          "Sector1": "00:04:04.1464691",
+          "Sector2": "00:01:18.6445465",
+          "Sector3": "00:00:57.7413940"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": false,
+      "FinishStatus": "None",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:10:55.2860000"
+    }
+  ],
+  "IsMultiClass": true,
+  "SessionGuid": "3713671c-6b36-424f-8496-2f8a5d617163",
+  "PitStops": [
+    {
+      "EntryLapNumber": 1,
+      "OverallDuration": "00:09:51.8960000",
+      "StallDuration": "00:09:51.8490000",
+      "WasDriverThrough": false,
+      "FuelTaken": {
+        "InLiters": 0.0
+      },
+      "NewFrontCompound": "",
+      "NewRearCompound": "",
+      "IsFrontTyresChanged": false,
+      "IsRearTyresChanged": false
+    }
+  ],
+  "FuelConsumptionInformation": null
+}

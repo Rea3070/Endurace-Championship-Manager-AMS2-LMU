@@ -1,0 +1,2909 @@
+{
+  "SessionRunTime": "2025-01-28T21:13:03.4227678-06:00",
+  "SessionType": "Race",
+  "WasGreen": true,
+  "Simulator": "AMS 2",
+  "SessionLengthType": "Time",
+  "TotalNumberOfLaps": 0,
+  "SessionLength": "00:05:00",
+  "SessionRunDuration": "00:08:00.4599999",
+  "TrackInfo": {
+    "TrackName": "Sebring",
+    "TrackLayoutName": "Sebring",
+    "LayoutLength": {
+      "InMeters": 5854.154296875
+    }
+  },
+  "Drivers": [
+    {
+      "ClassName": "LMDh",
+      "ClassId": "LMDh",
+      "DriverId": "Tim DongLMDh",
+      "DriverLongName": "Tim Dong",
+      "FinishingPosition": 48,
+      "FinishingPositionInClass": 17,
+      "AveragePosition": 2147483647.0,
+      "InitialPosition": 0,
+      "InitialPositionInClass": 0,
+      "CarName": "Alpine A424",
+      "TotalLaps": 0,
+      "TotalDistance": 0.0,
+      "GapToPlayerRelative": "00:00:00",
+      "LapsDifferenceToPlayer": 0,
+      "TopSpeed": {
+        "InMs": 10.357282638549805
+      },
+      "Laps": [],
+      "IsPlayer": true,
+      "Finished": true,
+      "FinishStatus": "Dnf",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:00:00"
+    },
+    {
+      "ClassName": "LMDh",
+      "ClassId": "LMDh",
+      "DriverId": "Mick SchumacherLMDh",
+      "DriverLongName": "Mick Schumacher",
+      "FinishingPosition": 5,
+      "FinishingPositionInClass": 5,
+      "AveragePosition": 5.0,
+      "InitialPosition": 4,
+      "InitialPositionInClass": 4,
+      "CarName": "Alpine A424",
+      "TotalLaps": 3,
+      "TotalDistance": 18654.3994140625,
+      "GapToPlayerRelative": "00:03:35.5650000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 81.67814636230469
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 4,
+          "LapStartPositionClass": 4,
+          "LapTime": "00:01:58.0188140",
+          "Sector1": "00:00:41.1529998",
+          "Sector2": "00:00:39.6206054",
+          "Sector3": "00:00:37.2452087"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 5,
+          "LapStartPositionClass": 5,
+          "LapTime": "00:01:50.4951782",
+          "Sector1": "00:00:31.8141784",
+          "Sector2": "00:00:40.4810180",
+          "Sector3": "00:00:38.1999816"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 5,
+          "LapStartPositionClass": 5,
+          "LapTime": "00:03:08.0199890",
+          "Sector1": "00:00:43.4540100",
+          "Sector2": "00:01:11.5943298",
+          "Sector3": "00:01:12.9716491"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:35.5650000"
+    },
+    {
+      "ClassName": "GT3_Gen2",
+      "ClassId": "GT3_Gen2",
+      "DriverId": "Konstantin GutsulGT3_Gen2",
+      "DriverLongName": "Konstantin Gutsul",
+      "FinishingPosition": 47,
+      "FinishingPositionInClass": 18,
+      "AveragePosition": 45.333333333333336,
+      "InitialPosition": 39,
+      "InitialPositionInClass": 10,
+      "CarName": "Audi R8 LMS GT3 evo II",
+      "TotalLaps": 3,
+      "TotalDistance": 17872.001556396484,
+      "GapToPlayerRelative": "00:04:38.7220000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 70.8971939086914
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 39,
+          "LapStartPositionClass": 10,
+          "LapTime": "00:02:23.8329925",
+          "Sector1": "00:00:55.7330017",
+          "Sector2": "00:00:45.1600036",
+          "Sector3": "00:00:42.9399871"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 42,
+          "LapStartPositionClass": 13,
+          "LapTime": "00:02:27.7871398",
+          "Sector1": "00:00:58.3626098",
+          "Sector2": "00:00:45.1014709",
+          "Sector3": "00:00:44.3230590"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 47,
+          "LapStartPositionClass": 18,
+          "LapTime": "00:02:24.4738464",
+          "Sector1": "00:00:38.0177612",
+          "Sector2": "00:00:45.1026916",
+          "Sector3": "00:01:01.3533935"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:38.7220000"
+    },
+    {
+      "ClassName": "GT3_Gen2",
+      "ClassId": "GT3_Gen2",
+      "DriverId": "Adam CarrollGT3_Gen2",
+      "DriverLongName": "Adam Carroll",
+      "FinishingPosition": 40,
+      "FinishingPositionInClass": 11,
+      "AveragePosition": 40.333333333333336,
+      "InitialPosition": 38,
+      "InitialPositionInClass": 9,
+      "CarName": "Audi R8 LMS GT3 evo II",
+      "TotalLaps": 3,
+      "TotalDistance": 17998.475067138672,
+      "GapToPlayerRelative": "00:04:21.2200000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 72.50004577636719
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 38,
+          "LapStartPositionClass": 9,
+          "LapTime": "00:02:22.5952301",
+          "Sector1": "00:00:55.3332366",
+          "Sector2": "00:00:44.9220886",
+          "Sector3": "00:00:42.3399047"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 41,
+          "LapStartPositionClass": 12,
+          "LapTime": "00:02:11.5068054",
+          "Sector1": "00:00:35.6177673",
+          "Sector2": "00:00:51.1409912",
+          "Sector3": "00:00:44.7480468"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 40,
+          "LapStartPositionClass": 11,
+          "LapTime": "00:02:39.3124389",
+          "Sector1": "00:00:39.3319702",
+          "Sector2": "00:00:54.8248901",
+          "Sector3": "00:01:05.1555786"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:21.2200000"
+    },
+    {
+      "ClassName": "GT3_Gen2",
+      "ClassId": "GT3_Gen2",
+      "DriverId": "Renee GracieGT3_Gen2",
+      "DriverLongName": "Renee Gracie",
+      "FinishingPosition": 37,
+      "FinishingPositionInClass": 8,
+      "AveragePosition": 37.0,
+      "InitialPosition": 34,
+      "InitialPositionInClass": 5,
+      "CarName": "Audi R8 LMS GT3 evo II",
+      "TotalLaps": 3,
+      "TotalDistance": 18029.332000732422,
+      "GapToPlayerRelative": "00:04:18.5580000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 72.2674331665039
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 34,
+          "LapStartPositionClass": 5,
+          "LapTime": "00:02:21.2129974",
+          "Sector1": "00:00:53.9729919",
+          "Sector2": "00:00:44.7600097",
+          "Sector3": "00:00:42.4799957"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 37,
+          "LapStartPositionClass": 8,
+          "LapTime": "00:02:10.2409973",
+          "Sector1": "00:00:35.9800109",
+          "Sector2": "00:00:49.7209777",
+          "Sector3": "00:00:44.5400085"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 37,
+          "LapStartPositionClass": 8,
+          "LapTime": "00:02:41.1015319",
+          "Sector1": "00:00:38.6600036",
+          "Sector2": "00:00:56.3016357",
+          "Sector3": "00:01:06.1398925"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:18.5580000"
+    },
+    {
+      "ClassName": "GT3_Gen2",
+      "ClassId": "GT3_Gen2",
+      "DriverId": "Thiago VivacquaGT3_Gen2",
+      "DriverLongName": "Thiago Vivacqua",
+      "FinishingPosition": 39,
+      "FinishingPositionInClass": 10,
+      "AveragePosition": 39.0,
+      "InitialPosition": 40,
+      "InitialPositionInClass": 11,
+      "CarName": "Audi R8 LMS GT3 evo II",
+      "TotalLaps": 3,
+      "TotalDistance": 18007.390258789062,
+      "GapToPlayerRelative": "00:04:20.7980000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 73.08343505859375
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 40,
+          "LapStartPositionClass": 11,
+          "LapTime": "00:02:21.8929901",
+          "Sector1": "00:00:54.5939941",
+          "Sector2": "00:00:44.9652252",
+          "Sector3": "00:00:42.3337707"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 39,
+          "LapStartPositionClass": 10,
+          "LapTime": "00:02:11.7620544",
+          "Sector1": "00:00:35.9663085",
+          "Sector2": "00:00:50.9147033",
+          "Sector3": "00:00:44.8810424"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 39,
+          "LapStartPositionClass": 10,
+          "LapTime": "00:02:39.5049133",
+          "Sector1": "00:00:39.0389404",
+          "Sector2": "00:00:54.9714660",
+          "Sector3": "00:01:05.4945068"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:20.7980000"
+    },
+    {
+      "ClassName": "LMDh",
+      "ClassId": "LMDh",
+      "DriverId": "Matt CampbellLMDh",
+      "DriverLongName": "Matt Campbell",
+      "FinishingPosition": 30,
+      "FinishingPositionInClass": 16,
+      "AveragePosition": 30.333333333333332,
+      "InitialPosition": 3,
+      "InitialPositionInClass": 3,
+      "CarName": "Porsche 963",
+      "TotalLaps": 3,
+      "TotalDistance": 18125.49951171875,
+      "GapToPlayerRelative": "00:04:05.4410000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 76.09785461425781
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 3,
+          "LapStartPositionClass": 3,
+          "LapTime": "00:02:18.3530120",
+          "Sector1": "00:00:53.0529937",
+          "Sector2": "00:00:43.1864929",
+          "Sector3": "00:00:42.1135253"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 31,
+          "LapStartPositionClass": 16,
+          "LapTime": "00:02:00.0247192",
+          "Sector1": "00:00:31.7999877",
+          "Sector2": "00:00:45.5610046",
+          "Sector3": "00:00:42.6637268"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 30,
+          "LapStartPositionClass": 16,
+          "LapTime": "00:02:51.2962646",
+          "Sector1": "00:00:37.0162658",
+          "Sector2": "00:01:06.5009155",
+          "Sector3": "00:01:07.7790832"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:05.4410000"
+    },
+    {
+      "ClassName": "LMDh",
+      "ClassId": "LMDh",
+      "DriverId": "Tijmen van der HelmLMDh",
+      "DriverLongName": "Tijmen van der Helm",
+      "FinishingPosition": 6,
+      "FinishingPositionInClass": 6,
+      "AveragePosition": 6.0,
+      "InitialPosition": 7,
+      "InitialPositionInClass": 7,
+      "CarName": "Porsche 963",
+      "TotalLaps": 3,
+      "TotalDistance": 18637.574951171875,
+      "GapToPlayerRelative": "00:03:35.9050000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 82.17817687988281
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 7,
+          "LapStartPositionClass": 7,
+          "LapTime": "00:01:58.6930084",
+          "Sector1": "00:00:41.6329956",
+          "Sector2": "00:00:39.8229217",
+          "Sector3": "00:00:37.2370910"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 6,
+          "LapStartPositionClass": 6,
+          "LapTime": "00:01:50.1811523",
+          "Sector1": "00:00:31.5199890",
+          "Sector2": "00:00:40.5214538",
+          "Sector3": "00:00:38.1397094"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 6,
+          "LapStartPositionClass": 6,
+          "LapTime": "00:03:08.2046813",
+          "Sector1": "00:00:43.8871459",
+          "Sector2": "00:01:11.5217590",
+          "Sector3": "00:01:12.7957763"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:35.9050000"
+    },
+    {
+      "ClassName": "LMDh",
+      "ClassId": "LMDh",
+      "DriverId": "Gianmaria BruniLMDh",
+      "DriverLongName": "Gianmaria Bruni",
+      "FinishingPosition": 4,
+      "FinishingPositionInClass": 4,
+      "AveragePosition": 4.0,
+      "InitialPosition": 5,
+      "InitialPositionInClass": 5,
+      "CarName": "Porsche 963",
+      "TotalLaps": 3,
+      "TotalDistance": 18664.6220703125,
+      "GapToPlayerRelative": "00:03:33.8250000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 81.23884582519531
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 5,
+          "LapStartPositionClass": 5,
+          "LapTime": "00:01:57.6930084",
+          "Sector1": "00:00:40.9929962",
+          "Sector2": "00:00:39.5400085",
+          "Sector3": "00:00:37.1600036"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 4,
+          "LapStartPositionClass": 4,
+          "LapTime": "00:01:49.0878295",
+          "Sector1": "00:00:31.8799743",
+          "Sector2": "00:00:39.5010070",
+          "Sector3": "00:00:37.7068481"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 4,
+          "LapStartPositionClass": 4,
+          "LapTime": "00:03:09.2331848",
+          "Sector1": "00:00:44.4095764",
+          "Sector2": "00:01:11.6502685",
+          "Sector3": "00:01:13.1733398"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:33.8250000"
+    },
+    {
+      "ClassName": "LMDh",
+      "ClassId": "LMDh",
+      "DriverId": "Felipe NasrLMDh",
+      "DriverLongName": "Felipe Nasr",
+      "FinishingPosition": 9,
+      "FinishingPositionInClass": 9,
+      "AveragePosition": 9.0,
+      "InitialPosition": 10,
+      "InitialPositionInClass": 10,
+      "CarName": "Porsche 963",
+      "TotalLaps": 3,
+      "TotalDistance": 18579.030883789062,
+      "GapToPlayerRelative": "00:03:39.4310000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 80.82536315917969
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 10,
+          "LapStartPositionClass": 10,
+          "LapTime": "00:02:00.9329986",
+          "Sector1": "00:00:42.6332092",
+          "Sector2": "00:00:40.7239685",
+          "Sector3": "00:00:37.5758209"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 9,
+          "LapStartPositionClass": 9,
+          "LapTime": "00:01:51.4410095",
+          "Sector1": "00:00:32.0199890",
+          "Sector2": "00:00:40.6610107",
+          "Sector3": "00:00:38.7600097"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 9,
+          "LapStartPositionClass": 9,
+          "LapTime": "00:03:06.5800170",
+          "Sector1": "00:00:42.7756652",
+          "Sector2": "00:01:11.3908691",
+          "Sector3": "00:01:12.4134826"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:39.4310000"
+    },
+    {
+      "ClassName": "LMP2",
+      "ClassId": "LMP2",
+      "DriverId": "Rasmus LindhLMP2",
+      "DriverLongName": "Rasmus Lindh",
+      "FinishingPosition": 22,
+      "FinishingPositionInClass": 7,
+      "AveragePosition": 22.0,
+      "InitialPosition": 25,
+      "InitialPositionInClass": 8,
+      "CarName": "Oreca 07",
+      "TotalLaps": 3,
+      "TotalDistance": 18324.332641601562,
+      "GapToPlayerRelative": "00:03:56.3140000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 74.82402038574219
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 25,
+          "LapStartPositionClass": 8,
+          "LapTime": "00:02:12.1189422",
+          "Sector1": "00:00:47.4597930",
+          "Sector2": "00:00:44.1531982",
+          "Sector3": "00:00:40.5059509"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 22,
+          "LapStartPositionClass": 7,
+          "LapTime": "00:01:57.1150512",
+          "Sector1": "00:00:33.3381347",
+          "Sector2": "00:00:43.0169067",
+          "Sector3": "00:00:40.7600097"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 22,
+          "LapStartPositionClass": 7,
+          "LapTime": "00:02:56.8469848",
+          "Sector1": "00:00:35.1815185",
+          "Sector2": "00:01:11.6124267",
+          "Sector3": "00:01:10.0530395"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:56.3140000"
+    },
+    {
+      "ClassName": "LMP2",
+      "ClassId": "LMP2",
+      "DriverId": "Mikkel JensenLMP2",
+      "DriverLongName": "Mikkel Jensen",
+      "FinishingPosition": 19,
+      "FinishingPositionInClass": 4,
+      "AveragePosition": 19.0,
+      "InitialPosition": 18,
+      "InitialPositionInClass": 2,
+      "CarName": "Oreca 07",
+      "TotalLaps": 3,
+      "TotalDistance": 18380.162109375,
+      "GapToPlayerRelative": "00:03:52.1630000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 73.86691284179688
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 18,
+          "LapStartPositionClass": 2,
+          "LapTime": "00:02:07.5573883",
+          "Sector1": "00:00:45.8930053",
+          "Sector2": "00:00:42.3599853",
+          "Sector3": "00:00:39.3043975"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 19,
+          "LapStartPositionClass": 4,
+          "LapTime": "00:01:57.5566101",
+          "Sector1": "00:00:33.2622070",
+          "Sector2": "00:00:42.8944091",
+          "Sector3": "00:00:41.3999938"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 19,
+          "LapStartPositionClass": 4,
+          "LapTime": "00:02:59.4600219",
+          "Sector1": "00:00:37.0332641",
+          "Sector2": "00:01:11.7271728",
+          "Sector3": "00:01:10.6995849"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:52.1630000"
+    },
+    {
+      "ClassName": "LMP2",
+      "ClassId": "LMP2",
+      "DriverId": "Felipe FragaLMP2",
+      "DriverLongName": "Felipe Fraga",
+      "FinishingPosition": 28,
+      "FinishingPositionInClass": 12,
+      "AveragePosition": 28.0,
+      "InitialPosition": 30,
+      "InitialPositionInClass": 12,
+      "CarName": "Oreca 07",
+      "TotalLaps": 3,
+      "TotalDistance": 18158.38653564453,
+      "GapToPlayerRelative": "00:04:04.6980000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 75.82181549072266
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 30,
+          "LapStartPositionClass": 12,
+          "LapTime": "00:02:13.9730072",
+          "Sector1": "00:00:49.1929931",
+          "Sector2": "00:00:43.8653717",
+          "Sector3": "00:00:40.9146423"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 28,
+          "LapStartPositionClass": 12,
+          "LapTime": "00:02:03.6478271",
+          "Sector1": "00:00:35.0065002",
+          "Sector2": "00:00:45.7603454",
+          "Sector3": "00:00:42.8809814"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 28,
+          "LapStartPositionClass": 12,
+          "LapTime": "00:02:51.8931884",
+          "Sector1": "00:00:37.0131530",
+          "Sector2": "00:01:05.7204589",
+          "Sector3": "00:01:09.1595764"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:04.6980000"
+    },
+    {
+      "ClassName": "LMP2",
+      "ClassId": "LMP2",
+      "DriverId": "Matthew BrabhamLMP2",
+      "DriverLongName": "Matthew Brabham",
+      "FinishingPosition": 17,
+      "FinishingPositionInClass": 2,
+      "AveragePosition": 17.0,
+      "InitialPosition": 19,
+      "InitialPositionInClass": 3,
+      "CarName": "Oreca 07",
+      "TotalLaps": 3,
+      "TotalDistance": 18425.9091796875,
+      "GapToPlayerRelative": "00:03:48.9840000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 76.55309295654297
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 19,
+          "LapStartPositionClass": 3,
+          "LapTime": "00:02:05.8331756",
+          "Sector1": "00:00:45.5529937",
+          "Sector2": "00:00:41.5419921",
+          "Sector3": "00:00:38.7381896"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 17,
+          "LapStartPositionClass": 2,
+          "LapTime": "00:01:56.0808105",
+          "Sector1": "00:00:32.8809814",
+          "Sector2": "00:00:42.6998291",
+          "Sector3": "00:00:40.5000000"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 17,
+          "LapStartPositionClass": 2,
+          "LapTime": "00:03:01.9053344",
+          "Sector1": "00:00:38.8907775",
+          "Sector2": "00:01:11.6262817",
+          "Sector3": "00:01:11.3882751"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:48.9840000"
+    },
+    {
+      "ClassName": "LMP2",
+      "ClassId": "LMP2",
+      "DriverId": "Lilou WadouxLMP2",
+      "DriverLongName": "Lilou Wadoux",
+      "FinishingPosition": 29,
+      "FinishingPositionInClass": 13,
+      "AveragePosition": 29.0,
+      "InitialPosition": 31,
+      "InitialPositionInClass": 13,
+      "CarName": "Oreca 07",
+      "TotalLaps": 3,
+      "TotalDistance": 18136.995483398438,
+      "GapToPlayerRelative": "00:04:05.0860000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 76.5594482421875
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 31,
+          "LapStartPositionClass": 13,
+          "LapTime": "00:02:14.2729949",
+          "Sector1": "00:00:49.4538421",
+          "Sector2": "00:00:43.9191589",
+          "Sector3": "00:00:40.8999938"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 29,
+          "LapStartPositionClass": 13,
+          "LapTime": "00:02:03.7472839",
+          "Sector1": "00:00:34.7999877",
+          "Sector2": "00:00:46.1800231",
+          "Sector3": "00:00:42.7672729"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 29,
+          "LapStartPositionClass": 13,
+          "LapTime": "00:02:51.5736999",
+          "Sector1": "00:00:37.0537109",
+          "Sector2": "00:01:06.0281982",
+          "Sector3": "00:01:08.4917907"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:05.0860000"
+    },
+    {
+      "ClassName": "LMP2",
+      "ClassId": "LMP2",
+      "DriverId": "Ryan DalzielLMP2",
+      "DriverLongName": "Ryan Dalziel",
+      "FinishingPosition": 21,
+      "FinishingPositionInClass": 6,
+      "AveragePosition": 21.0,
+      "InitialPosition": 23,
+      "InitialPositionInClass": 7,
+      "CarName": "Oreca 07",
+      "TotalLaps": 3,
+      "TotalDistance": 18345.282104492188,
+      "GapToPlayerRelative": "00:03:54.4340000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 74.3786849975586
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 23,
+          "LapStartPositionClass": 7,
+          "LapTime": "00:02:12.0583038",
+          "Sector1": "00:00:47.4329986",
+          "Sector2": "00:00:44.2472839",
+          "Sector3": "00:00:40.3780212"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 21,
+          "LapStartPositionClass": 6,
+          "LapTime": "00:01:55.2990112",
+          "Sector1": "00:00:33.2756958",
+          "Sector2": "00:00:41.5000000",
+          "Sector3": "00:00:40.5233154"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 21,
+          "LapStartPositionClass": 6,
+          "LapTime": "00:02:58.1966857",
+          "Sector1": "00:00:35.9379882",
+          "Sector2": "00:01:12.0098571",
+          "Sector3": "00:01:10.2488403"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:54.4340000"
+    },
+    {
+      "ClassName": "LMP2",
+      "ClassId": "LMP2",
+      "DriverId": "John FaranoLMP2",
+      "DriverLongName": "John Farano",
+      "FinishingPosition": 26,
+      "FinishingPositionInClass": 11,
+      "AveragePosition": 26.333333333333332,
+      "InitialPosition": 28,
+      "InitialPositionInClass": 11,
+      "CarName": "Oreca 07",
+      "TotalLaps": 3,
+      "TotalDistance": 18198.302368164062,
+      "GapToPlayerRelative": "00:04:02.0940000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 74.69154357910156
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 28,
+          "LapStartPositionClass": 11,
+          "LapTime": "00:02:13.7929840",
+          "Sector1": "00:00:48.6529998",
+          "Sector2": "00:00:43.8999938",
+          "Sector3": "00:00:41.2399902"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 27,
+          "LapStartPositionClass": 11,
+          "LapTime": "00:02:01.2226867",
+          "Sector1": "00:00:34.4227294",
+          "Sector2": "00:00:44.2447509",
+          "Sector3": "00:00:42.5552062"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 26,
+          "LapStartPositionClass": 11,
+          "LapTime": "00:02:53.4598999",
+          "Sector1": "00:00:36.3183288",
+          "Sector2": "00:01:07.5935363",
+          "Sector3": "00:01:09.5480346"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:02.0940000"
+    },
+    {
+      "ClassName": "LMP2",
+      "ClassId": "LMP2",
+      "DriverId": "Ben KeatingLMP2",
+      "DriverLongName": "Ben Keating",
+      "FinishingPosition": 16,
+      "FinishingPositionInClass": 1,
+      "AveragePosition": 16.0,
+      "InitialPosition": 14,
+      "InitialPositionInClass": 1,
+      "CarName": "Oreca 07",
+      "TotalLaps": 3,
+      "TotalDistance": 18435.47332763672,
+      "GapToPlayerRelative": "00:03:48.2420000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 74.63639068603516
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 14,
+          "LapStartPositionClass": 1,
+          "LapTime": "00:02:05.1961517",
+          "Sector1": "00:00:44.6329956",
+          "Sector2": "00:00:41.7200012",
+          "Sector3": "00:00:38.8431549"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 16,
+          "LapStartPositionClass": 1,
+          "LapTime": "00:01:55.9778442",
+          "Sector1": "00:00:33.0368347",
+          "Sector2": "00:00:42.6033325",
+          "Sector3": "00:00:40.3376770"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 16,
+          "LapStartPositionClass": 1,
+          "LapTime": "00:03:02.2399902",
+          "Sector1": "00:00:38.9828491",
+          "Sector2": "00:01:11.5424804",
+          "Sector3": "00:01:11.7146606"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:48.2420000"
+    },
+    {
+      "ClassName": "LMP2",
+      "ClassId": "LMP2",
+      "DriverId": "Colin BraunLMP2",
+      "DriverLongName": "Colin Braun",
+      "FinishingPosition": 23,
+      "FinishingPositionInClass": 8,
+      "AveragePosition": 23.0,
+      "InitialPosition": 27,
+      "InitialPositionInClass": 10,
+      "CarName": "Oreca 07",
+      "TotalLaps": 3,
+      "TotalDistance": 18298.669555664062,
+      "GapToPlayerRelative": "00:03:57.2450000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 75.98518371582031
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 27,
+          "LapStartPositionClass": 10,
+          "LapTime": "00:02:12.3730010",
+          "Sector1": "00:00:48.0930023",
+          "Sector2": "00:00:44.1234588",
+          "Sector3": "00:00:40.1565399"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 23,
+          "LapStartPositionClass": 8,
+          "LapTime": "00:01:57.7869873",
+          "Sector1": "00:00:33.2449035",
+          "Sector2": "00:00:43.4832153",
+          "Sector3": "00:00:41.0588684"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 23,
+          "LapStartPositionClass": 8,
+          "LapTime": "00:02:56.5539855",
+          "Sector1": "00:00:35.2968139",
+          "Sector2": "00:01:11.2944030",
+          "Sector3": "00:01:09.9627685"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:57.2450000"
+    },
+    {
+      "ClassName": "LMP2",
+      "ClassId": "LMP2",
+      "DriverId": "Pietro FittipaldiLMP2",
+      "DriverLongName": "Pietro Fittipaldi",
+      "FinishingPosition": 24,
+      "FinishingPositionInClass": 9,
+      "AveragePosition": 24.0,
+      "InitialPosition": 22,
+      "InitialPositionInClass": 6,
+      "CarName": "Oreca 07",
+      "TotalLaps": 3,
+      "TotalDistance": 18258.008544921875,
+      "GapToPlayerRelative": "00:03:58.8800000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 75.12017822265625
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 22,
+          "LapStartPositionClass": 6,
+          "LapTime": "00:02:12.7329864",
+          "Sector1": "00:00:47.3329925",
+          "Sector2": "00:00:44.2600097",
+          "Sector3": "00:00:41.1399841"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 24,
+          "LapStartPositionClass": 9,
+          "LapTime": "00:01:59.0610046",
+          "Sector1": "00:00:33.5000000",
+          "Sector2": "00:00:43.9609985",
+          "Sector3": "00:00:41.6000061"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 24,
+          "LapStartPositionClass": 9,
+          "LapTime": "00:02:55.5671386",
+          "Sector1": "00:00:35.4010009",
+          "Sector2": "00:01:10.2851867",
+          "Sector3": "00:01:09.8809509"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:58.8800000"
+    },
+    {
+      "ClassName": "LMP2",
+      "ClassId": "LMP2",
+      "DriverId": "Laurents HörrLMP2",
+      "DriverLongName": "Laurents Hörr",
+      "FinishingPosition": 18,
+      "FinishingPositionInClass": 3,
+      "AveragePosition": 18.0,
+      "InitialPosition": 20,
+      "InitialPositionInClass": 4,
+      "CarName": "Oreca 07",
+      "TotalLaps": 3,
+      "TotalDistance": 18415.442749023438,
+      "GapToPlayerRelative": "00:03:50.5910000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 76.27339172363281
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 20,
+          "LapStartPositionClass": 4,
+          "LapTime": "00:02:07.2929840",
+          "Sector1": "00:00:46.0335235",
+          "Sector2": "00:00:42.3055114",
+          "Sector3": "00:00:38.9539489"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 18,
+          "LapStartPositionClass": 3,
+          "LapTime": "00:01:56.2210083",
+          "Sector1": "00:00:33.1400146",
+          "Sector2": "00:00:42.5667114",
+          "Sector3": "00:00:40.5142822"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 18,
+          "LapStartPositionClass": 3,
+          "LapTime": "00:03:00.5044860",
+          "Sector1": "00:00:37.9820556",
+          "Sector2": "00:01:11.6512756",
+          "Sector3": "00:01:10.8711547"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:50.5910000"
+    },
+    {
+      "ClassName": "LMP2",
+      "ClassId": "LMP2",
+      "DriverId": "Paul di RestaLMP2",
+      "DriverLongName": "Paul di Resta",
+      "FinishingPosition": 20,
+      "FinishingPositionInClass": 5,
+      "AveragePosition": 20.0,
+      "InitialPosition": 21,
+      "InitialPositionInClass": 5,
+      "CarName": "Oreca 07",
+      "TotalLaps": 3,
+      "TotalDistance": 18369.06463623047,
+      "GapToPlayerRelative": "00:03:52.6250000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 75.38916015625
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 21,
+          "LapStartPositionClass": 5,
+          "LapTime": "00:02:07.6930084",
+          "Sector1": "00:00:47.2149963",
+          "Sector2": "00:00:41.6780090",
+          "Sector3": "00:00:38.8000030"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 20,
+          "LapStartPositionClass": 5,
+          "LapTime": "00:01:57.8647155",
+          "Sector1": "00:00:33.2007751",
+          "Sector2": "00:00:43.5423278",
+          "Sector3": "00:00:41.1216125"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 20,
+          "LapStartPositionClass": 5,
+          "LapTime": "00:02:59.4162597",
+          "Sector1": "00:00:37.0979614",
+          "Sector2": "00:01:11.9330139",
+          "Sector3": "00:01:10.3852844"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:52.6250000"
+    },
+    {
+      "ClassName": "GT3_Gen2",
+      "ClassId": "GT3_Gen2",
+      "DriverId": "Matt BellGT3_Gen2",
+      "DriverLongName": "Matt Bell",
+      "FinishingPosition": 43,
+      "FinishingPositionInClass": 14,
+      "AveragePosition": 43.666666666666664,
+      "InitialPosition": 41,
+      "InitialPositionInClass": 12,
+      "CarName": "Chevrolet Corvette Z06 GT3.R",
+      "TotalLaps": 3,
+      "TotalDistance": 17947.594787597656,
+      "GapToPlayerRelative": "00:04:24.7690000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 70.6861343383789
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 41,
+          "LapStartPositionClass": 12,
+          "LapTime": "00:02:25.2329864",
+          "Sector1": "00:00:56.2539215",
+          "Sector2": "00:00:45.8422088",
+          "Sector3": "00:00:43.1368560"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 45,
+          "LapStartPositionClass": 16,
+          "LapTime": "00:02:12.4090881",
+          "Sector1": "00:00:37.5810241",
+          "Sector2": "00:00:49.2999877",
+          "Sector3": "00:00:45.5280761"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 43,
+          "LapStartPositionClass": 14,
+          "LapTime": "00:02:36.9764404",
+          "Sector1": "00:00:39.4519348",
+          "Sector2": "00:00:53.0503234",
+          "Sector3": "00:01:04.4741821"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:24.7690000"
+    },
+    {
+      "ClassName": "GT3_Gen2",
+      "ClassId": "GT3_Gen2",
+      "DriverId": "Charlie EastwoodGT3_Gen2",
+      "DriverLongName": "Charlie Eastwood",
+      "FinishingPosition": 34,
+      "FinishingPositionInClass": 5,
+      "AveragePosition": 34.0,
+      "InitialPosition": 44,
+      "InitialPositionInClass": 15,
+      "CarName": "Chevrolet Corvette Z06 GT3.R",
+      "TotalLaps": 3,
+      "TotalDistance": 18061.57260131836,
+      "GapToPlayerRelative": "00:04:15.5570000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 70.68290710449219
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 44,
+          "LapStartPositionClass": 15,
+          "LapTime": "00:02:20.5129852",
+          "Sector1": "00:00:52.9729919",
+          "Sector2": "00:00:44.4800109",
+          "Sector3": "00:00:43.0599822"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 34,
+          "LapStartPositionClass": 5,
+          "LapTime": "00:02:07.9440307",
+          "Sector1": "00:00:36.3800048",
+          "Sector2": "00:00:46.7868652",
+          "Sector3": "00:00:44.7771606"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 34,
+          "LapStartPositionClass": 5,
+          "LapTime": "00:02:43.1369628",
+          "Sector1": "00:00:38.3215942",
+          "Sector2": "00:00:57.7076416",
+          "Sector3": "00:01:07.1077270"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:15.5570000"
+    },
+    {
+      "ClassName": "LMDh",
+      "ClassId": "LMDh",
+      "DriverId": "Renger van der ZandeLMDh",
+      "DriverLongName": "Renger van der Zande",
+      "FinishingPosition": 15,
+      "FinishingPositionInClass": 15,
+      "AveragePosition": 14.666666666666666,
+      "InitialPosition": 16,
+      "InitialPositionInClass": 15,
+      "CarName": "Cadillac V-Series.R",
+      "TotalLaps": 3,
+      "TotalDistance": 18458.206970214844,
+      "GapToPlayerRelative": "00:03:46.1350000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 81.75265502929688
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 16,
+          "LapStartPositionClass": 15,
+          "LapTime": "00:02:04.8178558",
+          "Sector1": "00:00:44.6992797",
+          "Sector2": "00:00:41.7337188",
+          "Sector3": "00:00:38.3848571"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 14,
+          "LapStartPositionClass": 14,
+          "LapTime": "00:01:54.2561340",
+          "Sector1": "00:00:32.6151428",
+          "Sector2": "00:00:41.8410034",
+          "Sector3": "00:00:39.7999877"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 15,
+          "LapStartPositionClass": 15,
+          "LapTime": "00:03:03.6800231",
+          "Sector1": "00:00:40.4170532",
+          "Sector2": "00:01:11.4577331",
+          "Sector3": "00:01:11.8052368"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:46.1350000"
+    },
+    {
+      "ClassName": "LMDh",
+      "ClassId": "LMDh",
+      "DriverId": "Sébastien BourdaisLMDh",
+      "DriverLongName": "Sébastien Bourdais",
+      "FinishingPosition": 8,
+      "FinishingPositionInClass": 8,
+      "AveragePosition": 8.0,
+      "InitialPosition": 9,
+      "InitialPositionInClass": 9,
+      "CarName": "Cadillac V-Series.R",
+      "TotalLaps": 3,
+      "TotalDistance": 18597.667724609375,
+      "GapToPlayerRelative": "00:03:38.1070000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 83.62812042236328
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 9,
+          "LapStartPositionClass": 9,
+          "LapTime": "00:01:59.3130035",
+          "Sector1": "00:00:42.2188720",
+          "Sector2": "00:00:39.9968566",
+          "Sector3": "00:00:37.0972747"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 8,
+          "LapStartPositionClass": 8,
+          "LapTime": "00:01:51.7409973",
+          "Sector1": "00:00:31.5799865",
+          "Sector2": "00:00:41.3428344",
+          "Sector3": "00:00:38.8181762"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 8,
+          "LapStartPositionClass": 8,
+          "LapTime": "00:03:07.2468261",
+          "Sector1": "00:00:43.2755432",
+          "Sector2": "00:01:11.4399414",
+          "Sector3": "00:01:12.5313415"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:38.1070000"
+    },
+    {
+      "ClassName": "LMDh",
+      "ClassId": "LMDh",
+      "DriverId": "Pipo DeraniLMDh",
+      "DriverLongName": "Pipo Derani",
+      "FinishingPosition": 10,
+      "FinishingPositionInClass": 10,
+      "AveragePosition": 10.0,
+      "InitialPosition": 11,
+      "InitialPositionInClass": 11,
+      "CarName": "Cadillac V-Series.R",
+      "TotalLaps": 3,
+      "TotalDistance": 18560.155639648438,
+      "GapToPlayerRelative": "00:03:40.5580000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 82.11290740966797
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 11,
+          "LapStartPositionClass": 11,
+          "LapTime": "00:02:01.1129913",
+          "Sector1": "00:00:42.8735656",
+          "Sector2": "00:00:40.6994323",
+          "Sector3": "00:00:37.5399932"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 10,
+          "LapStartPositionClass": 10,
+          "LapTime": "00:01:52.4010009",
+          "Sector1": "00:00:32.0400085",
+          "Sector2": "00:00:41.3410034",
+          "Sector3": "00:00:39.0199890"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 10,
+          "LapStartPositionClass": 10,
+          "LapTime": "00:03:05.9800109",
+          "Sector1": "00:00:42.4696044",
+          "Sector2": "00:01:11.3122863",
+          "Sector3": "00:01:12.1981201"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:40.5580000"
+    },
+    {
+      "ClassName": "GT3_Gen2",
+      "ClassId": "GT3_Gen2",
+      "DriverId": "Jan HeylenGT3_Gen2",
+      "DriverLongName": "Jan Heylen",
+      "FinishingPosition": 44,
+      "FinishingPositionInClass": 15,
+      "AveragePosition": 44.666666666666664,
+      "InitialPosition": 46,
+      "InitialPositionInClass": 17,
+      "CarName": "Porsche 992 GT3 R",
+      "TotalLaps": 3,
+      "TotalDistance": 17933.50161743164,
+      "GapToPlayerRelative": "00:04:25.8500000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 72.28489685058594
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 46,
+          "LapStartPositionClass": 17,
+          "LapTime": "00:02:25.3929901",
+          "Sector1": "00:00:56.7929992",
+          "Sector2": "00:00:45.8999938",
+          "Sector3": "00:00:42.6999969"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 46,
+          "LapStartPositionClass": 17,
+          "LapTime": "00:02:13.3285827",
+          "Sector1": "00:00:40.1460571",
+          "Sector2": "00:00:47.7828979",
+          "Sector3": "00:00:45.3996276"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 44,
+          "LapStartPositionClass": 15,
+          "LapTime": "00:02:36.2353820",
+          "Sector1": "00:00:39.5140686",
+          "Sector2": "00:00:52.5261840",
+          "Sector3": "00:01:04.1951293"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:25.8500000"
+    },
+    {
+      "ClassName": "GT3_Gen2",
+      "ClassId": "GT3_Gen2",
+      "DriverId": "Kerong LiGT3_Gen2",
+      "DriverLongName": "Kerong Li",
+      "FinishingPosition": 46,
+      "FinishingPositionInClass": 17,
+      "AveragePosition": 46.333333333333336,
+      "InitialPosition": 47,
+      "InitialPositionInClass": 18,
+      "CarName": "Porsche 992 GT3 R",
+      "TotalLaps": 3,
+      "TotalDistance": 17881.889923095703,
+      "GapToPlayerRelative": "00:04:29.4210000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 70.57117462158203
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 47,
+          "LapStartPositionClass": 18,
+          "LapTime": "00:02:27.9990997",
+          "Sector1": "00:00:57.5742034",
+          "Sector2": "00:00:46.1187896",
+          "Sector3": "00:00:44.3061065"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 47,
+          "LapStartPositionClass": 18,
+          "LapTime": "00:02:14.3149108",
+          "Sector1": "00:00:38.1375427",
+          "Sector2": "00:00:49.8184204",
+          "Sector3": "00:00:46.3589477"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 46,
+          "LapStartPositionClass": 17,
+          "LapTime": "00:02:33.6799926",
+          "Sector1": "00:00:39.5646667",
+          "Sector2": "00:00:50.1824645",
+          "Sector3": "00:01:03.9328613"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:29.4210000"
+    },
+    {
+      "ClassName": "GT3_Gen2",
+      "ClassId": "GT3_Gen2",
+      "DriverId": "Julien AndlauerGT3_Gen2",
+      "DriverLongName": "Julien Andlauer",
+      "FinishingPosition": 32,
+      "FinishingPositionInClass": 3,
+      "AveragePosition": 32.0,
+      "InitialPosition": 37,
+      "InitialPositionInClass": 8,
+      "CarName": "Porsche 992 GT3 R",
+      "TotalLaps": 3,
+      "TotalDistance": 18084.379516601562,
+      "GapToPlayerRelative": "00:04:10.9910000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 70.88949584960938
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 37,
+          "LapStartPositionClass": 8,
+          "LapTime": "00:02:18.5202484",
+          "Sector1": "00:00:52.3529968",
+          "Sector2": "00:00:43.7799987",
+          "Sector3": "00:00:42.3872528"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 32,
+          "LapStartPositionClass": 3,
+          "LapTime": "00:02:05.3937377",
+          "Sector1": "00:00:35.6985473",
+          "Sector2": "00:00:45.8752136",
+          "Sector3": "00:00:43.8199768"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 32,
+          "LapStartPositionClass": 3,
+          "LapTime": "00:02:47.0046997",
+          "Sector1": "00:00:37.5400085",
+          "Sector2": "00:01:01.8126220",
+          "Sector3": "00:01:07.6520690"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:10.9910000"
+    },
+    {
+      "ClassName": "GT3_Gen2",
+      "ClassId": "GT3_Gen2",
+      "DriverId": "Laurin HeinrichGT3_Gen2",
+      "DriverLongName": "Laurin Heinrich",
+      "FinishingPosition": 33,
+      "FinishingPositionInClass": 4,
+      "AveragePosition": 33.0,
+      "InitialPosition": 36,
+      "InitialPositionInClass": 7,
+      "CarName": "Porsche 992 GT3 R",
+      "TotalLaps": 3,
+      "TotalDistance": 18071.043334960938,
+      "GapToPlayerRelative": "00:04:12.6380000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 72.81824493408203
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 36,
+          "LapStartPositionClass": 7,
+          "LapTime": "00:02:18.7579498",
+          "Sector1": "00:00:52.4138641",
+          "Sector2": "00:00:43.7991333",
+          "Sector3": "00:00:42.5449523"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 33,
+          "LapStartPositionClass": 4,
+          "LapTime": "00:02:06.7760620",
+          "Sector1": "00:00:36.9407653",
+          "Sector2": "00:00:46.0352783",
+          "Sector3": "00:00:43.8000183"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 33,
+          "LapStartPositionClass": 4,
+          "LapTime": "00:02:45.5674133",
+          "Sector1": "00:00:37.3199768",
+          "Sector2": "00:01:01.0187988",
+          "Sector3": "00:01:07.2286376"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:12.6380000"
+    },
+    {
+      "ClassName": "GT3_Gen2",
+      "ClassId": "GT3_Gen2",
+      "DriverId": "Danny FormalGT3_Gen2",
+      "DriverLongName": "Danny Formal",
+      "FinishingPosition": 36,
+      "FinishingPositionInClass": 7,
+      "AveragePosition": 36.0,
+      "InitialPosition": 29,
+      "InitialPositionInClass": 2,
+      "CarName": "Lamborghini Huracan GT3 EVO2",
+      "TotalLaps": 3,
+      "TotalDistance": 18046.707580566406,
+      "GapToPlayerRelative": "00:04:17.7070000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 71.85273742675781
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 29,
+          "LapStartPositionClass": 2,
+          "LapTime": "00:02:20.9929962",
+          "Sector1": "00:00:53.7330017",
+          "Sector2": "00:00:44.8650360",
+          "Sector3": "00:00:42.3949584"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 36,
+          "LapStartPositionClass": 7,
+          "LapTime": "00:02:09.5816040",
+          "Sector1": "00:00:36.0410766",
+          "Sector2": "00:00:49.3281860",
+          "Sector3": "00:00:44.2123413"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 36,
+          "LapStartPositionClass": 7,
+          "LapTime": "00:02:41.6245422",
+          "Sector1": "00:00:38.2394104",
+          "Sector2": "00:00:57.0537719",
+          "Sector3": "00:01:06.3313598"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:17.7070000"
+    },
+    {
+      "ClassName": "GT3_Gen2",
+      "ClassId": "GT3_Gen2",
+      "DriverId": "Claudio SchiavoniGT3_Gen2",
+      "DriverLongName": "Claudio Schiavoni",
+      "FinishingPosition": 31,
+      "FinishingPositionInClass": 2,
+      "AveragePosition": 30.666666666666668,
+      "InitialPosition": 33,
+      "InitialPositionInClass": 4,
+      "CarName": "Lamborghini Huracan GT3 EVO2",
+      "TotalLaps": 3,
+      "TotalDistance": 18097.397521972656,
+      "GapToPlayerRelative": "00:04:07.7800000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 71.00910949707031
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 33,
+          "LapStartPositionClass": 4,
+          "LapTime": "00:02:18.2946319",
+          "Sector1": "00:00:52.2729949",
+          "Sector2": "00:00:43.7600097",
+          "Sector3": "00:00:42.2616271"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 30,
+          "LapStartPositionClass": 2,
+          "LapTime": "00:02:02.4193725",
+          "Sector1": "00:00:35.8583679",
+          "Sector2": "00:00:43.6210021",
+          "Sector3": "00:00:42.9400024"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 31,
+          "LapStartPositionClass": 2,
+          "LapTime": "00:02:49.9200134",
+          "Sector1": "00:00:37.0400085",
+          "Sector2": "00:01:04.9189147",
+          "Sector3": "00:01:07.9610900"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:07.7800000"
+    },
+    {
+      "ClassName": "GT3_Gen2",
+      "ClassId": "GT3_Gen2",
+      "DriverId": "Sarah BovyGT3_Gen2",
+      "DriverLongName": "Sarah Bovy",
+      "FinishingPosition": 27,
+      "FinishingPositionInClass": 1,
+      "AveragePosition": 26.333333333333332,
+      "InitialPosition": 24,
+      "InitialPositionInClass": 1,
+      "CarName": "Lamborghini Huracan GT3 EVO2",
+      "TotalLaps": 3,
+      "TotalDistance": 18147.278564453125,
+      "GapToPlayerRelative": "00:04:04.3740000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 71.27938079833984
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 24,
+          "LapStartPositionClass": 1,
+          "LapTime": "00:02:13.5756988",
+          "Sector1": "00:00:47.1730041",
+          "Sector2": "00:00:44.3600006",
+          "Sector3": "00:00:42.0426940"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 25,
+          "LapStartPositionClass": 1,
+          "LapTime": "00:02:03.7172851",
+          "Sector1": "00:00:35.3572998",
+          "Sector2": "00:00:45.2495117",
+          "Sector3": "00:00:43.1104736"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 27,
+          "LapStartPositionClass": 1,
+          "LapTime": "00:02:52.1610412",
+          "Sector1": "00:00:36.5478210",
+          "Sector2": "00:01:05.8666687",
+          "Sector3": "00:01:09.7465515"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:04.3740000"
+    },
+    {
+      "ClassName": "LMDh",
+      "ClassId": "LMDh",
+      "DriverId": "Nick YellolyLMDh",
+      "DriverLongName": "Nick Yelloly",
+      "FinishingPosition": 7,
+      "FinishingPositionInClass": 7,
+      "AveragePosition": 7.0,
+      "InitialPosition": 8,
+      "InitialPositionInClass": 8,
+      "CarName": "BMW M Hybrid V8",
+      "TotalLaps": 3,
+      "TotalDistance": 18626.204223632812,
+      "GapToPlayerRelative": "00:03:36.6500000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 82.6922607421875
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 8,
+          "LapStartPositionClass": 8,
+          "LapTime": "00:01:58.9194183",
+          "Sector1": "00:00:41.8730010",
+          "Sector2": "00:00:40.0633239",
+          "Sector3": "00:00:36.9830932"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 7,
+          "LapStartPositionClass": 7,
+          "LapTime": "00:01:50.6816711",
+          "Sector1": "00:00:31.6189270",
+          "Sector2": "00:00:40.7956542",
+          "Sector3": "00:00:38.2670898"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 7,
+          "LapStartPositionClass": 7,
+          "LapTime": "00:03:08.0929260",
+          "Sector1": "00:00:43.9329223",
+          "Sector2": "00:01:11.4746093",
+          "Sector3": "00:01:12.6853942"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:36.6500000"
+    },
+    {
+      "ClassName": "LMDh",
+      "ClassId": "LMDh",
+      "DriverId": "Philipp EngLMDh",
+      "DriverLongName": "Philipp Eng",
+      "FinishingPosition": 12,
+      "FinishingPositionInClass": 12,
+      "AveragePosition": 12.333333333333334,
+      "InitialPosition": 15,
+      "InitialPositionInClass": 14,
+      "CarName": "BMW M Hybrid V8",
+      "TotalLaps": 3,
+      "TotalDistance": 18531.854248046875,
+      "GapToPlayerRelative": "00:03:41.6440000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 82.7532958984375
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 15,
+          "LapStartPositionClass": 14,
+          "LapTime": "00:02:02.3530120",
+          "Sector1": "00:00:43.7756652",
+          "Sector2": "00:00:41.0773315",
+          "Sector3": "00:00:37.5000152"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 13,
+          "LapStartPositionClass": 13,
+          "LapTime": "00:01:52.2409973",
+          "Sector1": "00:00:31.9199829",
+          "Sector2": "00:00:41.1210021",
+          "Sector3": "00:00:39.2000122"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 12,
+          "LapStartPositionClass": 12,
+          "LapTime": "00:03:06.0400085",
+          "Sector1": "00:00:42.7486267",
+          "Sector2": "00:01:11.4132385",
+          "Sector3": "00:01:11.8781433"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:41.6440000"
+    },
+    {
+      "ClassName": "LMDh",
+      "ClassId": "LMDh",
+      "DriverId": "Connor De PhillippiLMDh",
+      "DriverLongName": "Connor De Phillippi",
+      "FinishingPosition": 11,
+      "FinishingPositionInClass": 11,
+      "AveragePosition": 11.0,
+      "InitialPosition": 12,
+      "InitialPositionInClass": 12,
+      "CarName": "BMW M Hybrid V8",
+      "TotalLaps": 3,
+      "TotalDistance": 18545.00616455078,
+      "GapToPlayerRelative": "00:03:41.2430000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 83.31204986572266
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 12,
+          "LapStartPositionClass": 12,
+          "LapTime": "00:02:01.5134429",
+          "Sector1": "00:00:43.3763427",
+          "Sector2": "00:00:40.5167388",
+          "Sector3": "00:00:37.6203613"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 11,
+          "LapStartPositionClass": 11,
+          "LapTime": "00:01:52.6815490",
+          "Sector1": "00:00:31.7995605",
+          "Sector2": "00:00:41.6809997",
+          "Sector3": "00:00:39.2009887"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 11,
+          "LapStartPositionClass": 11,
+          "LapTime": "00:03:05.9042358",
+          "Sector1": "00:00:42.5410461",
+          "Sector2": "00:01:11.2926635",
+          "Sector3": "00:01:12.0705261"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:41.2430000"
+    },
+    {
+      "ClassName": "LMDh",
+      "ClassId": "LMDh",
+      "DriverId": "Augusto FarfusLMDh",
+      "DriverLongName": "Augusto Farfus",
+      "FinishingPosition": 14,
+      "FinishingPositionInClass": 14,
+      "AveragePosition": 14.333333333333334,
+      "InitialPosition": 17,
+      "InitialPositionInClass": 16,
+      "CarName": "BMW M Hybrid V8",
+      "TotalLaps": 3,
+      "TotalDistance": 18488.584594726562,
+      "GapToPlayerRelative": "00:03:43.6810000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 81.5984115600586
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 17,
+          "LapStartPositionClass": 16,
+          "LapTime": "00:02:04.8929901",
+          "Sector1": "00:00:44.9762420",
+          "Sector2": "00:00:41.5367584",
+          "Sector3": "00:00:38.3799896"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 15,
+          "LapStartPositionClass": 15,
+          "LapTime": "00:01:51.7210083",
+          "Sector1": "00:00:32.2799987",
+          "Sector2": "00:00:40.4028320",
+          "Sector3": "00:00:39.0381774"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 14,
+          "LapStartPositionClass": 14,
+          "LapTime": "00:03:05.3818969",
+          "Sector1": "00:00:42.1702880",
+          "Sector2": "00:01:11.4140930",
+          "Sector3": "00:01:11.7975158"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:43.6810000"
+    },
+    {
+      "ClassName": "GT3_Gen2",
+      "ClassId": "GT3_Gen2",
+      "DriverId": "Mikaël GrenierGT3_Gen2",
+      "DriverLongName": "Mikaël Grenier",
+      "FinishingPosition": 41,
+      "FinishingPositionInClass": 12,
+      "AveragePosition": 41.666666666666664,
+      "InitialPosition": 45,
+      "InitialPositionInClass": 16,
+      "CarName": "Mercedes-AMG GT3 Evo",
+      "TotalLaps": 3,
+      "TotalDistance": 17963.574645996094,
+      "GapToPlayerRelative": "00:04:23.3530000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 71.71260833740234
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 45,
+          "LapStartPositionClass": 16,
+          "LapTime": "00:02:23.9130096",
+          "Sector1": "00:00:56.0130004",
+          "Sector2": "00:00:45.3399963",
+          "Sector3": "00:00:42.5600128"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 43,
+          "LapStartPositionClass": 14,
+          "LapTime": "00:02:12.3469543",
+          "Sector1": "00:00:38.6809997",
+          "Sector2": "00:00:48.1230163",
+          "Sector3": "00:00:45.5429382"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 41,
+          "LapStartPositionClass": 12,
+          "LapTime": "00:02:37.8575744",
+          "Sector1": "00:00:38.5395202",
+          "Sector2": "00:00:54.0875854",
+          "Sector3": "00:01:05.2304687"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:23.3530000"
+    },
+    {
+      "ClassName": "GT3_Gen2",
+      "ClassId": "GT3_Gen2",
+      "DriverId": "Kenny HabulGT3_Gen2",
+      "DriverLongName": "Kenny Habul",
+      "FinishingPosition": 45,
+      "FinishingPositionInClass": 16,
+      "AveragePosition": 43.333333333333336,
+      "InitialPosition": 42,
+      "InitialPositionInClass": 13,
+      "CarName": "Mercedes-AMG GT3 Evo",
+      "TotalLaps": 3,
+      "TotalDistance": 17917.208038330078,
+      "GapToPlayerRelative": "00:04:26.4530000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 71.32938385009766
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 42,
+          "LapStartPositionClass": 13,
+          "LapTime": "00:02:22.5330047",
+          "Sector1": "00:00:55.2129974",
+          "Sector2": "00:00:44.7209930",
+          "Sector3": "00:00:42.5990142"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 40,
+          "LapStartPositionClass": 11,
+          "LapTime": "00:02:16.8009948",
+          "Sector1": "00:00:36.4809875",
+          "Sector2": "00:00:54.8800048",
+          "Sector3": "00:00:45.4400024"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 45,
+          "LapStartPositionClass": 16,
+          "LapTime": "00:02:35.9399719",
+          "Sector1": "00:00:39.7648315",
+          "Sector2": "00:00:52.3207092",
+          "Sector3": "00:01:03.8544311"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:26.4530000"
+    },
+    {
+      "ClassName": "LMDh",
+      "ClassId": "LMDh",
+      "DriverId": "Matteo CairoliLMDh",
+      "DriverLongName": "Matteo Cairoli",
+      "FinishingPosition": 3,
+      "FinishingPositionInClass": 3,
+      "AveragePosition": 3.0,
+      "InitialPosition": 6,
+      "InitialPositionInClass": 6,
+      "CarName": "Lamborghini SC63",
+      "TotalLaps": 3,
+      "TotalDistance": 18686.21533203125,
+      "GapToPlayerRelative": "00:03:29.0610000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 81.5104751586914
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 6,
+          "LapStartPositionClass": 6,
+          "LapTime": "00:01:53.2929840",
+          "Sector1": "00:00:36.5130004",
+          "Sector2": "00:00:39.6600036",
+          "Sector3": "00:00:37.1199798"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 3,
+          "LapStartPositionClass": 3,
+          "LapTime": "00:01:48.7410278",
+          "Sector1": "00:00:31.8252563",
+          "Sector2": "00:00:39.4557495",
+          "Sector3": "00:00:37.4600219"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 3,
+          "LapStartPositionClass": 3,
+          "LapTime": "00:03:13.5400085",
+          "Sector1": "00:00:48.3588562",
+          "Sector2": "00:01:11.7435607",
+          "Sector3": "00:01:13.4375915"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:29.0610000"
+    },
+    {
+      "ClassName": "LMDh",
+      "ClassId": "LMDh",
+      "DriverId": "Daniil KvyatLMDh",
+      "DriverLongName": "Daniil Kvyat",
+      "FinishingPosition": 1,
+      "FinishingPositionInClass": 1,
+      "AveragePosition": 1.3333333333333333,
+      "InitialPosition": 2,
+      "InitialPositionInClass": 2,
+      "CarName": "Lamborghini SC63",
+      "TotalLaps": 3,
+      "TotalDistance": 18714.2626953125,
+      "GapToPlayerRelative": "00:03:26.2530000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 81.61929321289062
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 2,
+          "LapStartPositionClass": 2,
+          "LapTime": "00:01:51.0542449",
+          "Sector1": "00:00:34.9129943",
+          "Sector2": "00:00:39.3060913",
+          "Sector3": "00:00:36.8351593"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 2,
+          "LapStartPositionClass": 2,
+          "LapTime": "00:01:48.1456909",
+          "Sector1": "00:00:31.7987670",
+          "Sector2": "00:00:39.1009826",
+          "Sector3": "00:00:37.2459411"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 1,
+          "LapStartPositionClass": 1,
+          "LapTime": "00:03:15.5540771",
+          "Sector1": "00:00:49.6207275",
+          "Sector2": "00:01:11.8733215",
+          "Sector3": "00:01:14.0600280"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:26.2530000"
+    },
+    {
+      "ClassName": "LMDh",
+      "ClassId": "LMDh",
+      "DriverId": "Romain GrosjeanLMDh",
+      "DriverLongName": "Romain Grosjean",
+      "FinishingPosition": 2,
+      "FinishingPositionInClass": 2,
+      "AveragePosition": 1.6666666666666667,
+      "InitialPosition": 1,
+      "InitialPositionInClass": 1,
+      "CarName": "Lamborghini SC63",
+      "TotalLaps": 3,
+      "TotalDistance": 18702.750854492188,
+      "GapToPlayerRelative": "00:03:27.0530000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 82.41645050048828
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 1,
+          "LapStartPositionClass": 1,
+          "LapTime": "00:01:51.0129852",
+          "Sector1": "00:00:35.2330017",
+          "Sector2": "00:00:39.2235870",
+          "Sector3": "00:00:36.5563964"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 1,
+          "LapStartPositionClass": 1,
+          "LapTime": "00:01:48.9810180",
+          "Sector1": "00:00:31.7400207",
+          "Sector2": "00:00:39.3009948",
+          "Sector3": "00:00:37.9400024"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 2,
+          "LapStartPositionClass": 2,
+          "LapTime": "00:03:15.1464233",
+          "Sector1": "00:00:49.6204223",
+          "Sector2": "00:01:11.8024597",
+          "Sector3": "00:01:13.7235412"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:27.0530000"
+    },
+    {
+      "ClassName": "LMDh",
+      "ClassId": "LMDh",
+      "DriverId": "Andrea CaldarelliLMDh",
+      "DriverLongName": "Andrea Caldarelli",
+      "FinishingPosition": 13,
+      "FinishingPositionInClass": 13,
+      "AveragePosition": 12.666666666666666,
+      "InitialPosition": 13,
+      "InitialPositionInClass": 13,
+      "CarName": "Lamborghini SC63",
+      "TotalLaps": 3,
+      "TotalDistance": 18514.247924804688,
+      "GapToPlayerRelative": "00:03:42.2980000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 81.96376037597656
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 13,
+          "LapStartPositionClass": 13,
+          "LapTime": "00:02:02.1729888",
+          "Sector1": "00:00:43.5529937",
+          "Sector2": "00:00:40.8600006",
+          "Sector3": "00:00:37.7599945"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 12,
+          "LapStartPositionClass": 12,
+          "LapTime": "00:01:53.0610046",
+          "Sector1": "00:00:32.3399963",
+          "Sector2": "00:00:41.2658996",
+          "Sector3": "00:00:39.4551086"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 13,
+          "LapStartPositionClass": 13,
+          "LapTime": "00:03:06.0420532",
+          "Sector1": "00:00:42.7962951",
+          "Sector2": "00:01:11.4436950",
+          "Sector3": "00:01:11.8020629"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:03:42.2980000"
+    },
+    {
+      "ClassName": "GT3_Gen2",
+      "ClassId": "GT3_Gen2",
+      "DriverId": "Jake WalkerGT3_Gen2",
+      "DriverLongName": "Jake Walker",
+      "FinishingPosition": 42,
+      "FinishingPositionInClass": 13,
+      "AveragePosition": 42.666666666666664,
+      "InitialPosition": 43,
+      "InitialPositionInClass": 14,
+      "CarName": "BMW M4 GT3",
+      "TotalLaps": 3,
+      "TotalDistance": 17956.761352539062,
+      "GapToPlayerRelative": "00:04:24.1970000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 71.62191009521484
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 43,
+          "LapStartPositionClass": 14,
+          "LapTime": "00:02:24.9743194",
+          "Sector1": "00:00:56.4329986",
+          "Sector2": "00:00:45.9799957",
+          "Sector3": "00:00:42.5613250"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 44,
+          "LapStartPositionClass": 15,
+          "LapTime": "00:02:12.0996704",
+          "Sector1": "00:00:37.7396850",
+          "Sector2": "00:00:48.4646911",
+          "Sector3": "00:00:45.8952941"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 42,
+          "LapStartPositionClass": 13,
+          "LapTime": "00:02:37.2846374",
+          "Sector1": "00:00:39.3833618",
+          "Sector2": "00:00:53.0830383",
+          "Sector3": "00:01:04.8182373"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:24.1970000"
+    },
+    {
+      "ClassName": "LMP2",
+      "ClassId": "LMP2",
+      "DriverId": "João BarbosaLMP2",
+      "DriverLongName": "João Barbosa",
+      "FinishingPosition": 25,
+      "FinishingPositionInClass": 10,
+      "AveragePosition": 25.333333333333332,
+      "InitialPosition": 26,
+      "InitialPositionInClass": 9,
+      "CarName": "Ligier JS P217",
+      "TotalLaps": 3,
+      "TotalDistance": 18217.797485351562,
+      "GapToPlayerRelative": "00:04:01.1080000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 72.61717224121094
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 26,
+          "LapStartPositionClass": 9,
+          "LapTime": "00:02:13.6410064",
+          "Sector1": "00:00:47.9379425",
+          "Sector2": "00:00:44.0624389",
+          "Sector3": "00:00:41.6406250"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 26,
+          "LapStartPositionClass": 10,
+          "LapTime": "00:02:00.3930053",
+          "Sector1": "00:00:34.4119873",
+          "Sector2": "00:00:43.9414062",
+          "Sector3": "00:00:42.0396118"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 25,
+          "LapStartPositionClass": 10,
+          "LapTime": "00:02:54.0857849",
+          "Sector1": "00:00:35.8999938",
+          "Sector2": "00:01:08.2714843",
+          "Sector3": "00:01:09.9143066"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:01.1080000"
+    },
+    {
+      "ClassName": "GT3_Gen2",
+      "ClassId": "GT3_Gen2",
+      "DriverId": "Oliver JarvisGT3_Gen2",
+      "DriverLongName": "Oliver Jarvis",
+      "FinishingPosition": 38,
+      "FinishingPositionInClass": 9,
+      "AveragePosition": 38.0,
+      "InitialPosition": 35,
+      "InitialPositionInClass": 6,
+      "CarName": "McLaren 720S GT3 Evo",
+      "TotalLaps": 3,
+      "TotalDistance": 18018.436950683594,
+      "GapToPlayerRelative": "00:04:19.8890000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 72.35592651367188
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 35,
+          "LapStartPositionClass": 6,
+          "LapTime": "00:02:21.7129974",
+          "Sector1": "00:00:54.3529968",
+          "Sector2": "00:00:44.9240417",
+          "Sector3": "00:00:42.4359588"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 38,
+          "LapStartPositionClass": 9,
+          "LapTime": "00:02:11.0410156",
+          "Sector1": "00:00:36.0599975",
+          "Sector2": "00:00:50.6010131",
+          "Sector3": "00:00:44.3800048"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 38,
+          "LapStartPositionClass": 9,
+          "LapTime": "00:02:40.1677856",
+          "Sector1": "00:00:39.3644104",
+          "Sector2": "00:00:54.9692077",
+          "Sector3": "00:01:05.8341674"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:19.8890000"
+    },
+    {
+      "ClassName": "GT3_Gen2",
+      "ClassId": "GT3_Gen2",
+      "DriverId": "Brendan IribeGT3_Gen2",
+      "DriverLongName": "Brendan Iribe",
+      "FinishingPosition": 35,
+      "FinishingPositionInClass": 6,
+      "AveragePosition": 35.0,
+      "InitialPosition": 32,
+      "InitialPositionInClass": 3,
+      "CarName": "McLaren 720S GT3 Evo",
+      "TotalLaps": 3,
+      "TotalDistance": 18053.709045410156,
+      "GapToPlayerRelative": "00:04:17.2110000",
+      "LapsDifferenceToPlayer": -3,
+      "TopSpeed": {
+        "InMs": 70.97783660888672
+      },
+      "Laps": [
+        {
+          "IsPitLap": false,
+          "LapNumber": 1,
+          "IsValid": false,
+          "LapStartPosition": 32,
+          "LapStartPositionClass": 3,
+          "LapTime": "00:02:20.8158416",
+          "Sector1": "00:00:53.5529937",
+          "Sector2": "00:00:44.8209991",
+          "Sector3": "00:00:42.4418487"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 2,
+          "IsValid": true,
+          "LapStartPosition": 35,
+          "LapStartPositionClass": 6,
+          "LapTime": "00:02:09.2835998",
+          "Sector1": "00:00:36.1571655",
+          "Sector2": "00:00:48.9809875",
+          "Sector3": "00:00:44.1454467"
+        },
+        {
+          "IsPitLap": false,
+          "LapNumber": 3,
+          "IsValid": true,
+          "LapStartPosition": 35,
+          "LapStartPositionClass": 6,
+          "LapTime": "00:02:41.8145446",
+          "Sector1": "00:00:37.9373474",
+          "Sector2": "00:00:57.1676635",
+          "Sector3": "00:01:06.7095336"
+        }
+      ],
+      "IsPlayer": false,
+      "Finished": true,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:04:17.2110000"
+    },
+    {
+      "ClassName": "SafetyCar",
+      "ClassId": "SafetyCar",
+      "DriverId": "Safety CarSafetyCar",
+      "DriverLongName": "Safety Car",
+      "FinishingPosition": 49,
+      "FinishingPositionInClass": 1,
+      "AveragePosition": 49.0,
+      "InitialPosition": 49,
+      "InitialPositionInClass": 1,
+      "CarName": "Chevrolet Corvette C8 SC",
+      "TotalLaps": 0,
+      "TotalDistance": 246.40541076660156,
+      "GapToPlayerRelative": "00:06:50.8110000",
+      "LapsDifferenceToPlayer": 0,
+      "TopSpeed": {
+        "InMs": 28.3159236907959
+      },
+      "Laps": [],
+      "IsPlayer": false,
+      "Finished": false,
+      "FinishStatus": "Finished",
+      "Rating": 0.0,
+      "RatingRelativeToPlayer": 0.0,
+      "GapToPlayerByTiming": "00:06:50.8110000"
+    }
+  ],
+  "IsMultiClass": true,
+  "SessionGuid": "fc0f7616-9956-4152-b286-df623476d91f",
+  "PitStops": [
+    {
+      "EntryLapNumber": 1,
+      "OverallDuration": "00:07:08.1990000",
+      "StallDuration": "00:07:08.1530000",
+      "WasDriverThrough": false,
+      "FuelTaken": {
+        "InLiters": 0.0
+      },
+      "NewFrontCompound": "",
+      "NewRearCompound": "",
+      "IsFrontTyresChanged": false,
+      "IsRearTyresChanged": false
+    }
+  ],
+  "FuelConsumptionInformation": null
+}

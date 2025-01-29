@@ -37,3 +37,8 @@
 - To reset the championship, delete ```cumulative_standings.json```,```cumulative_standings.html```, and ```\Single Race Results```
 - Since this program just edits the files in the folder the exe is located, you can run multiple championships if you want.
    - All you have to do is copy ```cumulative_standings.json```,```cumulative_standings.html```, and ```\Single Race Results``` To another location. The exe will only edit the files in its folder so moving these in and out can allow simultaneous championships.
+ 
+
+## Custom AI File
+
+## How to creat the Ultimate IMSA Championship in AMS2, step by step guide: 

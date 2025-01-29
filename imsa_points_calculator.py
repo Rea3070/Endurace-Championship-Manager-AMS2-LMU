@@ -3,7 +3,7 @@ import os
 from collections import defaultdict
 from pathlib import Path
 
-# IMSA Points System (Top 10 Positions Example, Adjust as Needed)
+# IMSA Points System
 IMSA_POINTS = {
     1: 350,
     2: 320,
@@ -26,6 +26,33 @@ IMSA_POINTS = {
     19: 120,
     20: 110,
 }
+INDY_POINTS = {
+    1: 50,
+    2: 40,
+    3: 35,
+    4: 32,
+    5: 30,
+    6: 28,
+    7: 26,
+    8: 24,
+    9: 22,
+    10: 20,
+    11: 19,
+    12: 18,
+    13: 17,
+    14: 16,
+    15: 15,
+    16: 14,
+    17: 13,
+    18: 12,
+    19: 11,
+    20: 10,
+    21: 9,
+    22: 8,
+    23: 7,
+    24: 6,
+    25: 5
+}
 
 def assign_points(drivers):
     points = defaultdict(dict)
@@ -35,11 +62,11 @@ def assign_points(drivers):
         class_name = class_name_map.get(driver["ClassName"], driver["ClassName"])  # Convert to standardized class name
         driver_id = driver["DriverLongName"]
         position_in_class = driver["FinishingPositionInClass"]
-        points_awarded = IMSA_POINTS.get(position_in_class, 0)  # Default to 0 if position is outside points range
+        points_awarded = IMSA_POINTS.get(position_in_class, 100)  # Default to 0 if position is outside points range
         
         points[class_name][driver_id] = points_awarded
     return points
-
+'''
 def merge_points(existing_points, new_points):
     for class_name, drivers in new_points.items():
         if class_name not in existing_points:
@@ -47,7 +74,7 @@ def merge_points(existing_points, new_points):
         for driver_id, points in drivers.items():
             existing_points[class_name][driver_id] = existing_points[class_name].get(driver_id, 0) + points
     return existing_points
-
+'''
 def generate_html(standings, SessionRunTime,Track):
     html_content = "<html><head><title>Race Standings</title></head><body>"
     html_content += f"<h1>{Track} Standings</h1>"
@@ -83,16 +110,17 @@ def main(raceresult):
 
     race_points = assign_points(data["Drivers"])
     print("Initial Points:", race_points)
-    
-    # Load additional points JSON file (if provided)
-    try:
+
+   #Unused method for cumulative points
+   ''' try:
         with open("additional_points.json", "r") as file:
             additional_data = json.load(file)
         race_points = merge_points(race_points, additional_data)
         print("Updated Points After Merging:", race_points)
     except FileNotFoundError:
         print("No additional points file found. Skipping merge.")
-    
+    '''
+
     # Generate and save HTML standings
     generate_html(race_points, SessionRunTime, track)
     save_standings(race_points)

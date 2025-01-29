@@ -64,30 +64,118 @@ def assign_points(drivers):
         position_in_class = driver["FinishingPositionInClass"]
         points_awarded = IMSA_POINTS.get(position_in_class, 100)  # Default to 0 if position is outside points range
         
-        points[class_name][driver_id] = points_awarded
+        points[class_name][driver_id] = {
+            "Points": points_awarded,
+            "CarName": driver["CarName"].replace(" - Low Downforce", ""),
+            "FinishStatus": driver["FinishStatus"],
+            "InitialPositionInClass": driver["InitialPositionInClass"],
+            "FinishingPosition": driver["FinishingPositionInClass"]
+        }
     return points
-'''
-def merge_points(existing_points, new_points):
-    for class_name, drivers in new_points.items():
-        if class_name not in existing_points:
-            existing_points[class_name] = {}
-        for driver_id, points in drivers.items():
-            existing_points[class_name][driver_id] = existing_points[class_name].get(driver_id, 0) + points
-    return existing_points
-'''
+
 def generate_html(standings, SessionRunTime,Track):
-    html_content = "<html><head><title>Race Standings</title></head><body>"
-    html_content += f"<h1>{Track} Standings</h1>"
+    html_content = """
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Race Standings</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                background-color: #f4f4f4;
+                margin: 0;
+                padding: 0;
+                text-align: center;
+            }
+            .header {
+                background-image: url('https://www.revolutionworld.com/wp-content/uploads/2022/08/IMSA-logo-600x400-1.png'); 
+                background-size:  600px 400px;
+                background-position: center;
+                background-repeat: no-repeat;
+                color: white;
+                padding: 300px 20px 60px 20px;
+                font-size: 2em;
+                text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            }
+            h1 {
+                color: #333;
+                margin-top: 50px;
+                
+            }
+            h2 {
+                color: #007BFF;
+                margin-top: 30px;
+            }
+            table {
+                width: 80%;
+                margin: 20px auto;
+                border-collapse: collapse;
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+                background-color: white;
+            }
+            th, td {
+                padding: 12px;
+                text-align: center;
+                border-bottom: 1px solid #ddd;
+            }
+            th {
+                background-color: #007BFF;
+                color: white;
+            }
+            tr:hover {
+                background-color: #f1f1f1;
+            }
+            .footer {
+                margin-top: 40px;
+                font-size: 0.9em;
+                color: #777;
+            }
+        </style>
+    </head>
+    <body><div class="header">"""
+    html_content += f"<h1>{Track} Standings</h1></div>"
+  
+    
     class_order = ["GTP", "LMP2", "GTD"]  # Define the desired order
     
     for class_name in class_order:
         if class_name in standings:
-            html_content += f"<h2>Class: {class_name}</h2><table border='1'><tr><th>Driver</th><th>Points</th></tr>"
-            sorted_drivers = sorted(standings[class_name].items(), key=lambda x: x[1], reverse=True)
-            for driver_id, points in sorted_drivers:
-                html_content += f"<tr><td>{driver_id}</td><td>{points}</td></tr>"
+            html_content += f"<h2>Class: {class_name}</h2><table>"
+            html_content += """
+            <tr>
+            <th width="10">Finish</th>
+            <th width="10">Start</th>
+            <th>Driver</th><th>Car</th>
+            <th>Status</th>
+            <th>Points</th>
+            </tr>
+            """
+            sorted_drivers = sorted(standings[class_name].items(), key=lambda x: x[1]["Points"], reverse=True)
+
+            for driver_id, details in sorted_drivers:
+                html_content += f"""
+                <tr>
+                  
+                    <td>{details['FinishingPosition']}</td>
+                    <td>{details['InitialPositionInClass']}</td>
+                    <td>{driver_id}</td>
+                    <td>{details['CarName']}</td>
+                    <td>{details['FinishStatus']}</td>
+                    <td>{details['Points']}</td>
+
+                   
+                </tr>
+                """
             html_content += "</table>"
-    html_content += "</body></html>"
+    html_content += f"""
+        <div class="footer">
+            <p>Race Time: {SessionRunTime}</p>
+        </div>
+    </body>
+    </html>
+    """
     
     Path("Single Race Results").mkdir(parents=True, exist_ok=True)
     with open("Single Race Results/"+Track+" Race Standings on "+SessionRunTime.replace(":","-")+".html", "w") as file:
@@ -112,14 +200,7 @@ def main(raceresult):
     print("Initial Points:", race_points)
 
    #Unused method for cumulative points
-   ''' try:
-        with open("additional_points.json", "r") as file:
-            additional_data = json.load(file)
-        race_points = merge_points(race_points, additional_data)
-        print("Updated Points After Merging:", race_points)
-    except FileNotFoundError:
-        print("No additional points file found. Skipping merge.")
-    '''
+
 
     # Generate and save HTML standings
     generate_html(race_points, SessionRunTime, track)

@@ -31,13 +31,12 @@ def open_filesub():
 def main():
     root = tk.Tk()
     root.title("IMSA Race Manager")
-
-    tk.Label(root, text="Select a race results JSON file to add").pack(pady=25)
-    tk.Button(root, text="Load JSON", width=20,command=open_fileAdd).pack(pady=5)
     
-    tk.Label(root, text="Select a race results JSON file to subtract").pack(pady=25)
-    tk.Button(root, text="Load JSON", width=20,command=open_filesub).pack(pady=5)
-    tk.Button(root, text="Exit", width=10,command=root.quit).pack(pady=5)
+    root.geometry('300x200') 
+    tk.Label(root, text="Select a race results JSON file to add").pack(pady=25)
+    tk.Button(root, text="Add Race", width=20,command=open_fileAdd).pack(pady=5)
+    tk.Button(root, text="Undo Race",fg='white',bg='red', width=20,command=open_filesub).pack(pady=5)
+    tk.Button(root, text="Exit",  width=10,command=root.quit).pack(pady=5)
     
     root.mainloop()
 

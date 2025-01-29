@@ -42,3 +42,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+#Python -m PyInstaller --noconsole --onefile --icon="Icons\Icon-copy.ico" gui.py

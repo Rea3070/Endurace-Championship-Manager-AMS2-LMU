@@ -10,8 +10,8 @@
 
 # Setup
 1. Put the ```.exe``` to its own folder. It will create some subfolders too hold the htmls for the points so its important to have its own folder.
-2. This is intended for AMS 2 to be ran with LMDh, LMP2, or GT3 Gen2 Cars. Any other classes will work but MAY have weird formating.
-3. SecondMonitor needs to be running while doing a Race in AMS 2.
+2. SecondMonitor needs to be running while doing a Race in AMS 2. SecondMonitor needs to be running with reports export turned on while doing a Race in AMS 2. Make sure "Also Export .Json File" is checked and Race export is checked in SecondMonitor Settings
+
   
 # Guide
 ## This is the order of events:
@@ -23,6 +23,7 @@
   - Drivers can be added mid season.
   - Points are based on class then driver name
   - You can run in different classes and your points will still count and be sepereate in each class.
+  - This is intended for AMS 2 to be ran with LMDh, LMP2, or GT3 Gen2 Cars. Any other classes will work but MAY have weird formating.
 
 ## Did you mess something up? Do this:
 - Should you accidentally add a race twice or add the wrong JSON file, there is an "Undo Race" button.

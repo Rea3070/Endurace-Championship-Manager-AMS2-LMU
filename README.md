@@ -7,12 +7,10 @@
 - **JSON Input**: Easily import race data in JSON format.
 - **Dynamic Standings**: Automatically calculates and updates championship standings based on the provided data in the JSON file.
 - **HTML Output**: Generates a HTML page displaying the current standings.
-- **Custom AI Files**: I included my own AI edits for those who want to use the Apline LMDh as an Acura replacement. You must use [this](https://www.overtake.gg/downloads/imsa-expansion-skinpack-gtp-lmp2-g2-gt3-g2.74185/) skinpack for this to work.
-
 
 # Setup
 1. Put the ```.exe``` to its own folder. It will create some subfolders too hold the htmls for the points so its important to have its own folder.
-2. This is intended for AMS 2 to be ran with LMDh, LMP2, or GT3 Gen2 Cars. Any other classes will work but have weird formating.
+2. This is intended for AMS 2 to be ran with LMDh, LMP2, or GT3 Gen2 Cars. Any other classes will work but MAY have weird formating.
 3. SecondMonitor needs to be running while doing a Race in AMS 2.
   
 # Guide
@@ -38,7 +36,3 @@
 - Since this program just edits the files in the folder the exe is located, you can run multiple championships if you want.
    - All you have to do is copy ```cumulative_standings.json```,```cumulative_standings.html```, and ```\Single Race Results``` To another location. The exe will only edit the files in its folder so moving these in and out can allow simultaneous championships.
  
-
-## Custom AI File
-
-## How to creat the Ultimate IMSA Championship in AMS2, step by step guide: 

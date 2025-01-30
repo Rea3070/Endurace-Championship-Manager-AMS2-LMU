@@ -65,10 +65,10 @@ def generate_html(standings, filename="cumulative_standings.html"):
                 .header {
                     background-image: url('https://www.revolutionworld.com/wp-content/uploads/2022/08/IMSA-logo-600x400-1.png'); 
                     background-size:  600px 400px;
-                    background-position: left;
+                    background-position: center;
                     background-repeat: no-repeat;
                     color: white;
-                    padding: 60px 20px;
+                    padding: 300px 20px 60px 20px;
                     font-size: 2em;
                     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
                 }

@@ -10,24 +10,14 @@ import imsa_cumulative_standings
 
 import time
 
-def process_json(file_path, param, game):
-    print(game)
+def process_json(param, game):
+    file_path = filedialog.askopenfilename(filetypes=[("JSON files", "*.json")])
+    
     imsa_points_calculator.main(file_path, game)
     if param == "add":
         imsa_cumulative_standings.main(param,game)
     elif param == "sub":
         imsa_cumulative_standings.main(param,game)
-
-
-def open_fileAdd(game):
-    file_path = filedialog.askopenfilename(filetypes=[("JSON files", "*.json")])
-    if file_path:
-        process_json(file_path, "add", game)
-
-def open_filesub(game):
-    file_path = filedialog.askopenfilename(filetypes=[("JSON files", "*.json")])
-    if file_path:
-        process_json(file_path, "sub",game)
 
 
 def main():
@@ -52,8 +42,8 @@ def main():
     frame2.pack( pady=10)
 
     tk.Label(frame2, text="Select a race results JSON file to add").pack(pady=25)
-    tk.Button(frame2, text="Add Race", width=20,command=lambda: open_fileAdd(v.get())).pack(pady=5)
-    tk.Button(frame2, text="Undo Race",fg='white',bg='red', width=20,command=lambda: open_filesub(v.get())).pack(pady=5)
+    tk.Button(frame2, text="Add Race", width=20,command=lambda: process_json("add",v.get())).pack(pady=5)
+    tk.Button(frame2, text="Undo Race",fg='white',bg='red', width=20,command=lambda: process_json("sub", v.get())).pack(pady=5)
     tk.Button(frame2, text="Exit",  width=10,command=root.quit).pack(pady=5)
     
     root.mainloop()

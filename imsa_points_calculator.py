@@ -252,7 +252,7 @@ def generate_html(standings, SessionRunTime,Track, url):
     class_order = ["GTP", "Hyper", "LMP2", "GTD", "GT3"]  # Define the desired order
     
     for class_name in class_order:
-        print(class_name in standings)
+       
         
         if class_name == "Hyper" and class_name in standings: 
             html_content += f"""<h2 style="color:red;">Class: {class_name}</h2><table>"""

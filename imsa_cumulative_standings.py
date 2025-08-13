@@ -13,13 +13,19 @@ def save_standings(standings, filename="cumulative_standings.json"):
         json.dump(standings, file, indent=4)
 
 def merge_standings(existing_standings, new_race_results, param):
+    # Calculate previous positions for each class
+    prev_positions = {}
+    for class_name, drivers in existing_standings.items():
+        sorted_prev = sorted(drivers.items(), key=lambda x: x[1]["Points"], reverse=True)
+        prev_positions[class_name] = {driver_id: idx+1 for idx, (driver_id, _) in enumerate(sorted_prev)}
+
+    # Merge new results and calculate new positions
     for class_name, drivers in new_race_results.items():
         if class_name not in existing_standings:
             existing_standings[class_name] = {}
         
         for driver_id, details in drivers.items():
             if driver_id not in existing_standings[class_name]:
-                # Initialize the driver's entry with the new format
                 existing_standings[class_name][driver_id] = {
                     "Points": details["Points"],
                     "CarName": details["CarName"],
@@ -27,22 +33,29 @@ def merge_standings(existing_standings, new_race_results, param):
                     "InitialPositionInClass": details["InitialPositionInClass"]
                 }
             else:
-                # Handle the case where existing standings might be in the old format (just points)
                 if isinstance(existing_standings[class_name][driver_id], int):
-                    # Convert old format to new format
                     existing_standings[class_name][driver_id] = {
                         "Points": existing_standings[class_name][driver_id],
-                        "CarName": details["CarName"],  # Use the latest car name
-                        "FinishStatus": details["FinishStatus"],  # Use the latest finish status
-                        "InitialPositionInClass": details["InitialPositionInClass"]  # Use the latest initial position
+                        "CarName": details["CarName"],
+                        "FinishStatus": details["FinishStatus"],
+                        "InitialPositionInClass": details["InitialPositionInClass"]
                     }
                 else:
-                    # Update points and keep the existing additional fields
                     if param == "add":
                         existing_standings[class_name][driver_id]["Points"] += details["Points"]
                     else:
                         existing_standings[class_name][driver_id]["Points"] -= details["Points"]
-    
+
+    # Calculate new positions after merging
+    for class_name, drivers in existing_standings.items():
+        sorted_current = sorted(drivers.items(), key=lambda x: x[1]["Points"], reverse=True)
+        current_positions = {driver_id: idx+1 for idx, (driver_id, _) in enumerate(sorted_current)}
+        for driver_id, details in drivers.items():
+            prev_pos = prev_positions.get(class_name, {}).get(driver_id, current_positions[driver_id])
+            curr_pos = current_positions[driver_id]
+            details["Gained"] = max(prev_pos - curr_pos, 0)
+            details["Lost"] = max(curr_pos - prev_pos, 0)
+
     return existing_standings
 
 
@@ -120,17 +133,27 @@ def generate_html(standings, url2, filename="cumulative_standings.html" ):
             <th>Driver</th>
             <th>Car</th>
             <th>Points</th>
+            <th>Result</th>
             </tr>
             """
             sorted_drivers = sorted(standings[class_name].items(), key=lambda x: x[1]["Points"], reverse=True)
             i = 1
             for driver_id, details in sorted_drivers:
+                gained = details.get("Gained", 0)
+                lost = details.get("Lost", 0)
+                if gained > 0:
+                    result = f'<span style="color:green;">+{gained}</span>'
+                elif lost > 0:
+                    result = f'<span style="color:red;">-{lost}</span>'
+                else:
+                    result = '<span style="color:gray;">0</span>'
                 html_content += f"""
                 <tr>
                     <td>{i}</td>
                     <td>{driver_id}</td>
                     <td>{details['CarName']}</td>
                     <td>{details['Points']}</td>
+                    <td>{result}</td>
                 </tr>
                 """
                 i += 1
@@ -143,17 +166,27 @@ def generate_html(standings, url2, filename="cumulative_standings.html" ):
             <th>Driver</th>
             <th>Car</th>
             <th>Points</th>
+            <th>Result</th>
             </tr>
             """
             sorted_drivers = sorted(standings[class_name].items(), key=lambda x: x[1]["Points"], reverse=True)
             i = 1
             for driver_id, details in sorted_drivers:
+                gained = details.get("Gained", 0)
+                lost = details.get("Lost", 0)
+                if gained > 0:
+                    result = f'<span style="color:green;">+{gained}</span>'
+                elif lost > 0:
+                    result = f'<span style="color:red;">-{lost}</span>'
+                else:
+                    result = '<span style="color:gray;">0</span>'
                 html_content += f"""
                 <tr>
                     <td>{i}</td>
                     <td>{driver_id}</td>
                     <td>{details['CarName']}</td>
                     <td>{details['Points']}</td>
+                    <td>{result}</td>
                 </tr>
                 """
                 i += 1
@@ -166,17 +199,27 @@ def generate_html(standings, url2, filename="cumulative_standings.html" ):
             <th>Driver</th>
             <th>Car</th>
             <th>Points</th>
+            <th>Result</th>
             </tr>
             """
             sorted_drivers = sorted(standings[class_name].items(), key=lambda x: x[1]["Points"], reverse=True)
             i = 1
             for driver_id, details in sorted_drivers:
+                gained = details.get("Gained", 0)
+                lost = details.get("Lost", 0)
+                if gained > 0:
+                    result = f'<span style="color:green;">+{gained}</span>'
+                elif lost > 0:
+                    result = f'<span style="color:red;">-{lost}</span>'
+                else:
+                    result = '<span style="color:gray;">0</span>'
                 html_content += f"""
                 <tr>
                     <td>{i}</td>
                     <td>{driver_id}</td>
                     <td>{details['CarName']}</td>
                     <td>{details['Points']}</td>
+                    <td>{result}</td>
                 </tr>
                 """
                 i += 1
@@ -189,17 +232,27 @@ def generate_html(standings, url2, filename="cumulative_standings.html" ):
             <th>Driver</th>
             <th>Car</th>
             <th>Points</th>
+            <th>Result</th>
             </tr>
             """
             sorted_drivers = sorted(standings[class_name].items(), key=lambda x: x[1]["Points"], reverse=True)
             i = 1
             for driver_id, details in sorted_drivers:
+                gained = details.get("Gained", 0)
+                lost = details.get("Lost", 0)
+                if gained > 0:
+                    result = f'<span style="color:green;">+{gained}</span>'
+                elif lost > 0:
+                    result = f'<span style="color:red;">-{lost}</span>'
+                else:
+                    result = '<span style="color:gray;">0</span>'
                 html_content += f"""
                 <tr>
                     <td>{i}</td>
                     <td>{driver_id}</td>
                     <td>{details['CarName']}</td>
                     <td>{details['Points']}</td>
+                    <td>{result}</td>
                 </tr>
                 """
                 i += 1
@@ -212,17 +265,27 @@ def generate_html(standings, url2, filename="cumulative_standings.html" ):
             <th>Driver</th>
             <th>Car</th>
             <th>Points</th>
+            <th>Result</th>
             </tr>
             """
             sorted_drivers = sorted(standings[class_name].items(), key=lambda x: x[1]["Points"], reverse=True)
             i = 1
             for driver_id, details in sorted_drivers:
+                gained = details.get("Gained", 0)
+                lost = details.get("Lost", 0)
+                if gained > 0:
+                    result = f'<span style="color:green;">+{gained}</span>'
+                elif lost > 0:
+                    result = f'<span style="color:red;">-{lost}</span>'
+                else:
+                    result = '<span style="color:gray;">0</span>'
                 html_content += f"""
                 <tr>
                     <td>{i}</td>
                     <td>{driver_id}</td>
                     <td>{details['CarName']}</td>
                     <td>{details['Points']}</td>
+                    <td>{result}</td>
                 </tr>
                 """
                 i += 1
@@ -236,6 +299,22 @@ def generate_html(standings, url2, filename="cumulative_standings.html" ):
         file.write(html_content)
     
     print(f"Cumulative standings saved to {filename}")
+
+def calculate_position_changes(prev_standings, curr_standings):
+    changes = defaultdict(dict)
+    for class_name, drivers in curr_standings.items():
+        # Get previous positions by sorting previous standings
+        prev_sorted = sorted(prev_standings.get(class_name, {}).items(), key=lambda x: x[1]["Points"], reverse=True)
+        prev_positions = {driver_id: idx+1 for idx, (driver_id, _) in enumerate(prev_sorted)}
+        # Get current positions by sorting current standings
+        curr_sorted = sorted(drivers.items(), key=lambda x: x[1]["Points"], reverse=True)
+        for idx, (driver_id, details) in enumerate(curr_sorted):
+            curr_pos = idx + 1
+            prev_pos = prev_positions.get(driver_id, curr_pos)
+            gained = max(prev_pos - curr_pos, 0)
+            lost = max(curr_pos - prev_pos, 0)
+            changes[class_name][driver_id] = {"Gained": gained, "Lost": lost}
+    return changes
 
 def main(param, game):
     existing_standings = load_existing_standings()
